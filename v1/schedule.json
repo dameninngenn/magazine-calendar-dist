@@ -1,0 +1,3644 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-05T18:41:04+09:00",
+  "window": {
+    "from": "2026-08-01",
+    "to": "2027-03-31"
+  },
+  "holiday_coverage_until": "2027-11-23",
+  "magazines": [
+    {
+      "id": "shonen_jump",
+      "name": "週刊少年ジャンプ",
+      "short_name": "ジャンプ",
+      "initials": "JP",
+      "publisher": "集英社",
+      "color": "#D94F3D",
+      "official_url": "https://www.shonenjump.com/j/weeklyshonenjump/",
+      "source_health": "ok",
+      "last_confirmed_on": "2026-09-02",
+      "confirmation_gap_days": 3
+    },
+    {
+      "id": "shonen_magazine",
+      "name": "週刊少年マガジン",
+      "short_name": "マガジン",
+      "initials": "MG",
+      "publisher": "講談社",
+      "color": "#2F6FB5",
+      "source_health": "ok",
+      "last_confirmed_on": "2026-09-02",
+      "confirmation_gap_days": 3
+    },
+    {
+      "id": "shonen_sunday",
+      "name": "週刊少年サンデー",
+      "short_name": "サンデー",
+      "initials": "SD",
+      "publisher": "小学館",
+      "color": "#3F9E5A",
+      "source_health": "ok",
+      "last_confirmed_on": "2026-09-02",
+      "confirmation_gap_days": 3
+    },
+    {
+      "id": "shonen_champion",
+      "name": "週刊少年チャンピオン",
+      "short_name": "チャンピオン",
+      "initials": "CH",
+      "publisher": "秋田書店",
+      "color": "#C9772A",
+      "source_health": "ok",
+      "last_confirmed_on": "2026-09-03",
+      "confirmation_gap_days": 2
+    },
+    {
+      "id": "young_jump",
+      "name": "週刊ヤングジャンプ",
+      "short_name": "ヤンジャン",
+      "initials": "YJ",
+      "publisher": "集英社",
+      "color": "#8E5BB5",
+      "source_health": "ok",
+      "last_confirmed_on": "2026-09-02",
+      "confirmation_gap_days": 3
+    },
+    {
+      "id": "young_magazine",
+      "name": "週刊ヤングマガジン",
+      "short_name": "ヤンマガ",
+      "initials": "YM",
+      "publisher": "講談社",
+      "color": "#1F8FA0",
+      "source_health": "ok",
+      "last_confirmed_on": "2026-09-02",
+      "confirmation_gap_days": 3
+    },
+    {
+      "id": "big_comic_spirits",
+      "name": "ビッグコミックスピリッツ",
+      "short_name": "スピリッツ",
+      "initials": "SP",
+      "publisher": "小学館",
+      "color": "#B5473F",
+      "source_health": "ok",
+      "last_confirmed_on": "2026-09-02",
+      "confirmation_gap_days": 3
+    },
+    {
+      "id": "young_champion",
+      "name": "ヤングチャンピオン",
+      "short_name": "ヤンチャン",
+      "initials": "YC",
+      "publisher": "秋田書店",
+      "color": "#6B8E23",
+      "source_health": "ok",
+      "last_confirmed_on": "2026-09-03",
+      "confirmation_gap_days": 2
+    },
+    {
+      "id": "gekkan_shonen_magazine",
+      "name": "月刊少年マガジン",
+      "short_name": "月マガ",
+      "initials": "GM",
+      "publisher": "講談社",
+      "color": "#4B6CB7",
+      "source_health": "ok",
+      "last_confirmed_on": "2026-09-05",
+      "confirmation_gap_days": 0
+    },
+    {
+      "id": "gekkan_shonen_champion",
+      "name": "月刊少年チャンピオン",
+      "short_name": "月チャン",
+      "initials": "GC",
+      "publisher": "秋田書店",
+      "color": "#A0522D",
+      "source_health": "ok",
+      "last_confirmed_on": "2026-09-05",
+      "confirmation_gap_days": 0
+    },
+    {
+      "id": "bessatsu_shonen_magazine",
+      "name": "別冊少年マガジン",
+      "short_name": "別マガ",
+      "initials": "BM",
+      "publisher": "講談社",
+      "color": "#5A7FA8",
+      "source_health": "ok",
+      "last_confirmed_on": "2026-09-02",
+      "confirmation_gap_days": 3
+    },
+    {
+      "id": "jump_sq",
+      "name": "ジャンプSQ.",
+      "short_name": "SQ",
+      "initials": "SQ",
+      "publisher": "集英社",
+      "color": "#C4553F",
+      "source_health": "ok",
+      "last_confirmed_on": "2026-09-02",
+      "confirmation_gap_days": 3
+    }
+  ],
+  "releases": [
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-08-03",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-08-03",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-08-03",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-08-03",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "jump_sq",
+      "edition": "print",
+      "date": "2026-08-04",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-08-05",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-08-05",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-08-05",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "gekkan_shonen_champion",
+      "edition": "print",
+      "date": "2026-08-06",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "gekkan_shonen_magazine",
+      "edition": "print",
+      "date": "2026-08-06",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-08-06",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-08-06",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "bessatsu_shonen_magazine",
+      "edition": "print",
+      "date": "2026-08-07",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "weekend",
+      "shift_note": "8/9(日)のため直前の平日に変更"
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-08-10",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-08-10",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-08-10",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2026-08-10",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-08-10",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-08-12",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-08-12",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-08-12",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-08-13",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-08-13",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-08-17",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-08-17",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-08-17",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-08-17",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-08-19",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-08-19",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-08-19",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-08-20",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-08-20",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-08-24",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-08-24",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-08-24",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2026-08-24",
+      "kind": "normal",
+      "status": "confirmed",
+      "issue_label": null,
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://www.akitashoten.co.jp/youngchampion",
+          "quote": "本 特別定価：490円 (10%税込) 発売日 ：2026年8月24日 Tweet 少年・青年コミック誌 週刊",
+          "fetched_at": "2026-09-03T11:40:16+09:00"
+        }
+      ]
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-08-24",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-08-26",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-08-26",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-08-26",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-08-27",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-08-27",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-08-31",
+      "kind": "normal",
+      "status": "confirmed",
+      "issue_label": "40号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://bigcomicbros.net/magazine/spirits/",
+          "quote": "ー 作品一覧 アンケート応募 メニュー 週刊スピリッツ 2026年08月31日発売 ビッグコミックスピリッツ第40号 価格510円 試し読み 紙版を買う 電",
+          "fetched_at": "2026-09-02T22:54:15+09:00"
+        }
+      ]
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-08-31",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-08-31",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-08-31",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-09-02",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-09-02",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-09-02",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-09-03",
+      "kind": "normal",
+      "status": "confirmed",
+      "issue_label": null,
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://www.akitashoten.co.jp/w-champion",
+          "quote": "税込) 発売日 ：2026年8月27日 次 号 ：2026年9月3日 Tweet 『吸血鬼すぐ死ぬ』『刃牙ら",
+          "fetched_at": "2026-09-02T22:54:11+09:00"
+        }
+      ]
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-09-03",
+      "kind": "normal",
+      "status": "confirmed",
+      "issue_label": null,
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://youngjump.jp/",
+          "quote": "アシスタント募集 オンライン持ち込み 2026年9月3日（木）発売 特別定価510円（税込） デジタル版購入 BLU",
+          "fetched_at": "2026-09-02T22:54:13+09:00"
+        }
+      ]
+    },
+    {
+      "magazine_id": "gekkan_shonen_champion",
+      "edition": "print",
+      "date": "2026-09-04",
+      "kind": "normal",
+      "status": "confirmed",
+      "issue_label": null,
+      "shift_reason": "weekend",
+      "shift_note": "9/6(日)のため直前の平日に変更",
+      "sources": [
+        {
+          "url": "https://www.akitashoten.co.jp/m-champion",
+          "quote": "%税込) 発売日 ：2026年8月6日 次 号 ：2026年9月4日 Tweet 少年・青年コミック誌 週刊",
+          "fetched_at": "2026-09-02T22:54:11+09:00"
+        }
+      ]
+    },
+    {
+      "magazine_id": "gekkan_shonen_magazine",
+      "edition": "print",
+      "date": "2026-09-04",
+      "kind": "normal",
+      "status": "confirmed",
+      "issue_label": null,
+      "shift_reason": "weekend",
+      "shift_note": "9/6(日)のため直前の平日に変更",
+      "sources": [
+        {
+          "url": "https://comic-days.com/magazine",
+          "quote": "った件 【68日記 前編】 もっと見る 月刊少年マガジン 毎月6日更新 次回更新日： 2026/09/04 NEW 2026/08/06 更新 D",
+          "fetched_at": "2026-09-02T23:22:45+09:00"
+        }
+      ]
+    },
+    {
+      "magazine_id": "jump_sq",
+      "edition": "print",
+      "date": "2026-09-04",
+      "kind": "normal",
+      "status": "confirmed",
+      "issue_label": "10月特大号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://jumpsq.shueisha.co.jp/",
+          "quote": "れてる！」を当てよう！ ジャンプSQ. ジャンプSQ.10月特大号 9月4日発売!! ◆特別定価 700円 【表紙】 『",
+          "fetched_at": "2026-09-02T22:54:13+09:00"
+        }
+      ]
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-09-07",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-09-07",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-09-07",
+      "kind": "normal",
+      "status": "confirmed",
+      "issue_label": "41号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
+          "quote": "『ONE PIECE』 は休載です。 次号のジャンプ情報 2026年 41号 9/7(月)発売 特別定価：320円(税込) ●一部地域",
+          "fetched_at": "2026-09-02T22:54:08+09:00"
+        }
+      ]
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-09-07",
+      "kind": "normal",
+      "status": "confirmed",
+      "issue_label": null,
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://comic-days.com/magazine",
+          "quote": "ト 月刊少年シリウス 月刊少年マガジン ヤングマガジン 毎週月曜更新 次回更新日： 2026/09/07 NEW 2026/08/31 更新 S",
+          "fetched_at": "2026-09-02T23:22:45+09:00"
+        }
+      ]
+    },
+    {
+      "magazine_id": "bessatsu_shonen_magazine",
+      "edition": "print",
+      "date": "2026-09-09",
+      "kind": "normal",
+      "status": "confirmed",
+      "issue_label": "10月号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://shonenmagazine.com/bmaga",
+          "quote": "歪みの虜 おーにじょうろく 試し読み 次号の別冊少年マガジン 別冊少年マガジン10月号 09月09日（水）発売予定！ \"> 運営会社 プライバシーポリ",
+          "fetched_at": "2026-09-02T22:54:09+09:00"
+        }
+      ]
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-09-09",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-09-09",
+      "kind": "normal",
+      "status": "confirmed",
+      "issue_label": "41号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://shonenmagazine.com/smaga",
+          "quote": "し読み あひるの空 日向武史 試し読み 次号の週刊少年マガジン 週刊少年マガジン 41号 09月09日（水）発売予定！ \"> 運営会社 プライバシーポリ",
+          "fetched_at": "2026-09-02T22:54:09+09:00"
+        }
+      ]
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-09-09",
+      "kind": "normal",
+      "status": "confirmed",
+      "issue_label": "41号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://websunday.net/sunday/next/",
+          "quote": "ップへ トップ > 少年サンデー 次号 次号のサンデー 2026年 41 号 9月9日（水） 発売 ●価格：380円（税込） トニカクカワ",
+          "fetched_at": "2026-09-02T22:54:11+09:00"
+        }
+      ]
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-09-10",
+      "kind": "normal",
+      "status": "confirmed",
+      "issue_label": null,
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://www.akitashoten.co.jp/w-champion",
+          "quote": "%税込) 発売日 ：2026年9月3日 次 号 ：2026年9月10日 Tweet 『吸血鬼すぐ死ぬ』『刃牙ら",
+          "fetched_at": "2026-09-03T11:40:14+09:00"
+        }
+      ]
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-09-10",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-09-14",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-09-14",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-09-14",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2026-09-14",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-09-14",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-09-16",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-09-16",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-09-16",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-09-17",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-09-17",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-09-18",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "9/21(敬老の日)のため前週金曜に変更"
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-09-20",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "9/23(秋分の日)のため前日に変更"
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-09-20",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "9/23(秋分の日)のため前日に変更"
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-09-20",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "9/23(秋分の日)のため前日に変更"
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-09-21",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-09-24",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-09-24",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "9/21(敬老の日)のため翌日に変更"
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-09-24",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-09-24",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "9/21(敬老の日)のため翌日に変更"
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-09-28",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-09-28",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-09-28",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2026-09-28",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-09-28",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-09-30",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-09-30",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-09-30",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-10-01",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-10-01",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "jump_sq",
+      "edition": "print",
+      "date": "2026-10-02",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "weekend",
+      "shift_note": "10/4(日)のため直前の平日に変更"
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-10-05",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-10-05",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-10-05",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-10-05",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "gekkan_shonen_champion",
+      "edition": "print",
+      "date": "2026-10-06",
+      "kind": "normal",
+      "status": "confirmed",
+      "issue_label": null,
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://www.akitashoten.co.jp/m-champion",
+          "quote": "%税込) 発売日 ：2026年9月4日 次 号 ：2026年10月6日 Tweet 表紙＆巻頭グラビア 一ノ瀬",
+          "fetched_at": "2026-09-05T18:15:37+09:00"
+        }
+      ]
+    },
+    {
+      "magazine_id": "gekkan_shonen_magazine",
+      "edition": "print",
+      "date": "2026-10-06",
+      "kind": "normal",
+      "status": "confirmed",
+      "issue_label": null,
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://comic-days.com/magazine",
+          "quote": "った件 【68日記 前編】 もっと見る 月刊少年マガジン 毎月6日更新 次回更新日： 2026/10/06 NEW 2026/09/04 更新 D",
+          "fetched_at": "2026-09-05T18:15:41+09:00"
+        }
+      ]
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-10-07",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-10-07",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-10-07",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-10-08",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-10-08",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "bessatsu_shonen_magazine",
+      "edition": "print",
+      "date": "2026-10-09",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-10-09",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "10/12(スポーツの日)のため前週金曜に変更"
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2026-10-11",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "10/12(スポーツの日)のため前日に変更"
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-10-12",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-10-13",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "10/12(スポーツの日)のため翌日に変更"
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-10-13",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "10/12(スポーツの日)のため翌日に変更"
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-10-14",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-10-14",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-10-14",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-10-15",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-10-15",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-10-19",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-10-19",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-10-19",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-10-19",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-10-21",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-10-21",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-10-21",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-10-22",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-10-22",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-10-26",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-10-26",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-10-26",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2026-10-26",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-10-26",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-10-28",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-10-28",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-10-28",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-10-29",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-10-29",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-11-02",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-11-02",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-11-02",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-11-02",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "jump_sq",
+      "edition": "print",
+      "date": "2026-11-04",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-11-04",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-11-04",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-11-04",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-11-05",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-11-05",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "gekkan_shonen_champion",
+      "edition": "print",
+      "date": "2026-11-06",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "gekkan_shonen_magazine",
+      "edition": "print",
+      "date": "2026-11-06",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "bessatsu_shonen_magazine",
+      "edition": "print",
+      "date": "2026-11-09",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-11-09",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-11-09",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-11-09",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2026-11-09",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-11-09",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-11-11",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-11-11",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-11-11",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-11-12",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-11-12",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-11-16",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-11-16",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-11-16",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-11-16",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-11-18",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-11-18",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-11-18",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-11-19",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-11-19",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-11-20",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "11/23(勤労感謝の日)のため前週金曜に変更"
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2026-11-22",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "11/23(勤労感謝の日)のため前日に変更"
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-11-23",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-11-24",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "11/23(勤労感謝の日)のため翌日に変更"
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-11-24",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "11/23(勤労感謝の日)のため翌日に変更"
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-11-25",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-11-25",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-11-25",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-11-26",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-11-26",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-11-30",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-11-30",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-11-30",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-11-30",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-12-02",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-12-02",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-12-02",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-12-03",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-12-03",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "gekkan_shonen_champion",
+      "edition": "print",
+      "date": "2026-12-04",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "weekend",
+      "shift_note": "12/6(日)のため直前の平日に変更"
+    },
+    {
+      "magazine_id": "gekkan_shonen_magazine",
+      "edition": "print",
+      "date": "2026-12-04",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "weekend",
+      "shift_note": "12/6(日)のため直前の平日に変更"
+    },
+    {
+      "magazine_id": "jump_sq",
+      "edition": "print",
+      "date": "2026-12-04",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-12-07",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-12-07",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-12-07",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-12-07",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "bessatsu_shonen_magazine",
+      "edition": "print",
+      "date": "2026-12-09",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-12-09",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-12-09",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-12-09",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-12-10",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-12-10",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-12-14",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-12-14",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-12-14",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2026-12-14",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-12-14",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-12-16",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-12-16",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-12-16",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-12-17",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-12-17",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-12-21",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-12-21",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-12-21",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-12-21",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-12-23",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-12-23",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-12-23",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-12-24",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-12-24",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2026-12-28",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2026-12-28",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2026-12-28",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2026-12-28",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2026-12-28",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2026-12-30",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2026-12-30",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-12-30",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2026-12-31",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2026-12-31",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2027-01-04",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "jump_sq",
+      "edition": "print",
+      "date": "2027-01-04",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2027-01-04",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2027-01-04",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2027-01-04",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "gekkan_shonen_champion",
+      "edition": "print",
+      "date": "2027-01-06",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "gekkan_shonen_magazine",
+      "edition": "print",
+      "date": "2027-01-06",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2027-01-06",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2027-01-06",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2027-01-06",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2027-01-07",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2027-01-07",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "bessatsu_shonen_magazine",
+      "edition": "print",
+      "date": "2027-01-09",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2027-01-11",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2027-01-11",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2027-01-11",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2027-01-11",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2027-01-11",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2027-01-13",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2027-01-13",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2027-01-13",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2027-01-14",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2027-01-14",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2027-01-18",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2027-01-18",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2027-01-18",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2027-01-18",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2027-01-20",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2027-01-20",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2027-01-20",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2027-01-21",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2027-01-21",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2027-01-25",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2027-01-25",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2027-01-25",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2027-01-25",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2027-01-25",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2027-01-27",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2027-01-27",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2027-01-27",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2027-01-28",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2027-01-28",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2027-02-01",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2027-02-01",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2027-02-01",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2027-02-01",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2027-02-03",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2027-02-03",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2027-02-03",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "jump_sq",
+      "edition": "print",
+      "date": "2027-02-04",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2027-02-04",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2027-02-04",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "gekkan_shonen_champion",
+      "edition": "print",
+      "date": "2027-02-05",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "weekend",
+      "shift_note": "2/6(土)のため直前の平日に変更"
+    },
+    {
+      "magazine_id": "gekkan_shonen_magazine",
+      "edition": "print",
+      "date": "2027-02-05",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "weekend",
+      "shift_note": "2/6(土)のため直前の平日に変更"
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2027-02-08",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2027-02-08",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2027-02-08",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2027-02-08",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2027-02-08",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "bessatsu_shonen_magazine",
+      "edition": "print",
+      "date": "2027-02-09",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2027-02-10",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "2/11(建国記念の日)のため前日に変更"
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2027-02-10",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2027-02-10",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2027-02-10",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2027-02-10",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "2/11(建国記念の日)のため前日に変更"
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2027-02-15",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2027-02-15",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2027-02-15",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2027-02-15",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2027-02-17",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2027-02-17",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2027-02-17",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2027-02-18",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2027-02-18",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2027-02-22",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2027-02-22",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2027-02-22",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2027-02-22",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2027-02-22",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2027-02-24",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2027-02-24",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2027-02-24",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2027-02-25",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2027-02-25",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2027-03-01",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2027-03-01",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2027-03-01",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2027-03-01",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2027-03-03",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2027-03-03",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2027-03-03",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "jump_sq",
+      "edition": "print",
+      "date": "2027-03-04",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2027-03-04",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2027-03-04",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "gekkan_shonen_champion",
+      "edition": "print",
+      "date": "2027-03-05",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "weekend",
+      "shift_note": "3/6(土)のため直前の平日に変更"
+    },
+    {
+      "magazine_id": "gekkan_shonen_magazine",
+      "edition": "print",
+      "date": "2027-03-05",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "weekend",
+      "shift_note": "3/6(土)のため直前の平日に変更"
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2027-03-08",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2027-03-08",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2027-03-08",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2027-03-08",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2027-03-08",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "bessatsu_shonen_magazine",
+      "edition": "print",
+      "date": "2027-03-09",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2027-03-10",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2027-03-10",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2027-03-10",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2027-03-11",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2027-03-11",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2027-03-15",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2027-03-15",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2027-03-15",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2027-03-15",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2027-03-17",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2027-03-17",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2027-03-17",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2027-03-18",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2027-03-18",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2027-03-19",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "3/22(休日)のため前週金曜に変更"
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2027-03-20",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "3/22(休日)のため前日に変更"
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2027-03-22",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2027-03-23",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "3/22(休日)のため翌日に変更"
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2027-03-23",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "3/22(休日)のため翌日に変更"
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2027-03-24",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2027-03-24",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2027-03-24",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2027-03-25",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2027-03-25",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2027-03-29",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2027-03-29",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2027-03-29",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2027-03-29",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2027-03-31",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2027-03-31",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2027-03-31",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    }
+  ],
+  "season_notes": [
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "all",
+      "window_kind": "obon",
+      "from": "2026-08-05",
+      "to": "2026-08-20",
+      "note": "例年このお盆期間に合併号のため1週お休みがあります（どの週かは未確定）"
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "all",
+      "window_kind": "obon",
+      "from": "2026-08-05",
+      "to": "2026-08-20",
+      "note": "例年このお盆期間に合併号のため1週お休みがあります（どの週かは未確定）"
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "all",
+      "window_kind": "obon",
+      "from": "2026-08-05",
+      "to": "2026-08-20",
+      "note": "例年このお盆期間に合併号のため1週お休みがあります（どの週かは未確定）"
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "all",
+      "window_kind": "obon",
+      "from": "2026-08-05",
+      "to": "2026-08-20",
+      "note": "例年このお盆期間に合併号のため1週お休みがあります（どの週かは未確定）"
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "all",
+      "window_kind": "obon",
+      "from": "2026-08-05",
+      "to": "2026-08-20",
+      "note": "例年このお盆期間に合併号のため1週お休みがあります（どの週かは未確定）"
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "all",
+      "window_kind": "obon",
+      "from": "2026-08-05",
+      "to": "2026-08-20",
+      "note": "例年このお盆期間に合併号のため1週お休みがあります（どの週かは未確定）"
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "all",
+      "window_kind": "obon",
+      "from": "2026-08-05",
+      "to": "2026-08-20",
+      "note": "例年このお盆期間に合併号のため1週お休みがあります（どの週かは未確定）"
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "all",
+      "window_kind": "new_year",
+      "from": "2026-12-14",
+      "to": "2027-01-18",
+      "note": "例年この年末年始に合併号のため1〜2週お休みがあります（どの週かは未確定）"
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "all",
+      "window_kind": "new_year",
+      "from": "2026-12-14",
+      "to": "2027-01-18",
+      "note": "例年この年末年始に合併号のため1〜2週お休みがあります（どの週かは未確定）"
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "all",
+      "window_kind": "new_year",
+      "from": "2026-12-14",
+      "to": "2027-01-18",
+      "note": "例年この年末年始に合併号のため1〜2週お休みがあります（どの週かは未確定）"
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "all",
+      "window_kind": "new_year",
+      "from": "2026-12-14",
+      "to": "2027-01-18",
+      "note": "例年この年末年始に合併号のため1〜2週お休みがあります（どの週かは未確定）"
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "all",
+      "window_kind": "new_year",
+      "from": "2026-12-14",
+      "to": "2027-01-18",
+      "note": "例年この年末年始に合併号のため1〜2週お休みがあります（どの週かは未確定）"
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "all",
+      "window_kind": "new_year",
+      "from": "2026-12-14",
+      "to": "2027-01-18",
+      "note": "例年この年末年始に合併号のため1〜2週お休みがあります（どの週かは未確定）"
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "all",
+      "window_kind": "new_year",
+      "from": "2026-12-14",
+      "to": "2027-01-18",
+      "note": "例年この年末年始に合併号のため1〜2週お休みがあります（どの週かは未確定）"
+    }
+  ]
+}
