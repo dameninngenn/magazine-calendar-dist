@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-05T18:46:53+09:00",
+  "generated_at": "2026-09-06T04:56:30+09:00",
   "window": {
     "from": "2026-08-01",
     "to": "2027-03-31"
@@ -16,8 +16,7 @@
       "color": "#D94F3D",
       "official_url": "https://www.shonenjump.com/j/weeklyshonenjump/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-02",
-      "confirmation_gap_days": 3
+      "last_confirmed_on": "2026-09-02"
     },
     {
       "id": "shonen_magazine",
@@ -27,8 +26,7 @@
       "publisher": "講談社",
       "color": "#2F6FB5",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-02",
-      "confirmation_gap_days": 3
+      "last_confirmed_on": "2026-09-02"
     },
     {
       "id": "shonen_sunday",
@@ -38,8 +36,7 @@
       "publisher": "小学館",
       "color": "#3F9E5A",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-02",
-      "confirmation_gap_days": 3
+      "last_confirmed_on": "2026-09-02"
     },
     {
       "id": "shonen_champion",
@@ -49,8 +46,7 @@
       "publisher": "秋田書店",
       "color": "#C9772A",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-03",
-      "confirmation_gap_days": 2
+      "last_confirmed_on": "2026-09-03"
     },
     {
       "id": "young_jump",
@@ -60,8 +56,7 @@
       "publisher": "集英社",
       "color": "#8E5BB5",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-02",
-      "confirmation_gap_days": 3
+      "last_confirmed_on": "2026-09-05"
     },
     {
       "id": "young_magazine",
@@ -71,8 +66,7 @@
       "publisher": "講談社",
       "color": "#1F8FA0",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-02",
-      "confirmation_gap_days": 3
+      "last_confirmed_on": "2026-09-02"
     },
     {
       "id": "big_comic_spirits",
@@ -82,8 +76,7 @@
       "publisher": "小学館",
       "color": "#B5473F",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-02",
-      "confirmation_gap_days": 3
+      "last_confirmed_on": "2026-09-05"
     },
     {
       "id": "young_champion",
@@ -93,8 +86,7 @@
       "publisher": "秋田書店",
       "color": "#6B8E23",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-03",
-      "confirmation_gap_days": 2
+      "last_confirmed_on": "2026-09-05"
     },
     {
       "id": "gekkan_shonen_magazine",
@@ -104,8 +96,7 @@
       "publisher": "講談社",
       "color": "#4B6CB7",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-05",
-      "confirmation_gap_days": 0
+      "last_confirmed_on": "2026-09-05"
     },
     {
       "id": "gekkan_shonen_champion",
@@ -115,8 +106,7 @@
       "publisher": "秋田書店",
       "color": "#A0522D",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-05",
-      "confirmation_gap_days": 0
+      "last_confirmed_on": "2026-09-05"
     },
     {
       "id": "bessatsu_shonen_magazine",
@@ -126,8 +116,7 @@
       "publisher": "講談社",
       "color": "#5A7FA8",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-02",
-      "confirmation_gap_days": 3
+      "last_confirmed_on": "2026-09-02"
     },
     {
       "id": "jump_sq",
@@ -137,8 +126,7 @@
       "publisher": "集英社",
       "color": "#C4553F",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-02",
-      "confirmation_gap_days": 3
+      "last_confirmed_on": "2026-09-02"
     }
   ],
   "releases": [
@@ -294,7 +282,8 @@
       "kind": "normal",
       "status": "predicted_watch",
       "issue_label": null,
-      "shift_reason": null
+      "shift_reason": "holiday",
+      "shift_note": "8/11(山の日)のため前日に変更"
     },
     {
       "magazine_id": "young_magazine",
@@ -459,25 +448,18 @@
       "shift_reason": null
     },
     {
-      "magazine_id": "young_champion",
-      "edition": "print",
-      "date": "2026-08-24",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": null,
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://www.akitashoten.co.jp/youngchampion",
-          "quote": "本 特別定価：490円 (10%税込) 発売日 ：2026年8月24日 Tweet 少年・青年コミック誌 週刊",
-          "fetched_at": "2026-09-03T11:40:16+09:00"
-        }
-      ]
-    },
-    {
       "magazine_id": "young_magazine",
       "edition": "print",
       "date": "2026-08-24",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2026-08-25",
       "kind": "normal",
       "status": "predicted",
       "issue_label": null,
@@ -685,9 +667,16 @@
       "edition": "print",
       "date": "2026-09-07",
       "kind": "normal",
-      "status": "predicted",
+      "status": "confirmed",
       "issue_label": null,
-      "shift_reason": null
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://bigcomicbros.net/wp-content/uploads/2026/08/spi2640_jigoyokoku.jpg",
+          "quote": "9月7日壳！",
+          "fetched_at": "2026-09-05T19:26:37+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_jump",
@@ -727,6 +716,22 @@
           "url": "https://comic-days.com/magazine",
           "quote": "ト 月刊少年シリウス 月刊少年マガジン ヤングマガジン 毎週月曜更新 次回更新日： 2026/09/07 NEW 2026/08/31 更新 S",
           "fetched_at": "2026-09-02T23:22:45+09:00"
+        }
+      ]
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2026-09-08",
+      "kind": "normal",
+      "status": "confirmed",
+      "issue_label": null,
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://www.akitashoten.co.jp/youngchampion/next/1",
+          "quote": "9月8日火尧壳",
+          "fetched_at": "2026-09-05T19:26:35+09:00"
         }
       ]
     },
@@ -808,9 +813,16 @@
       "edition": "print",
       "date": "2026-09-10",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "41",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://youngjump.jp/magazine/",
+          "quote": "ーマーズ』 【シリーズ連載】『リアル』 次号No.41は2026年9月10日（木）発売です!! ヤングジャンプ公式サイト 集英",
+          "fetched_at": "2026-09-05T19:02:25+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "big_comic_spirits",
@@ -832,15 +844,6 @@
     },
     {
       "magazine_id": "shonen_jump",
-      "edition": "print",
-      "date": "2026-09-14",
-      "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
-    },
-    {
-      "magazine_id": "young_champion",
       "edition": "print",
       "date": "2026-09-14",
       "kind": "normal",
@@ -943,6 +946,16 @@
       "shift_note": "9/23(秋分の日)のため前日に変更"
     },
     {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2026-09-20",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "9/22(休日)のため前日に変更"
+    },
+    {
       "magazine_id": "shonen_jump",
       "edition": "digital",
       "date": "2026-09-21",
@@ -1009,15 +1022,6 @@
     },
     {
       "magazine_id": "shonen_jump",
-      "edition": "print",
-      "date": "2026-09-28",
-      "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
-    },
-    {
-      "magazine_id": "young_champion",
       "edition": "print",
       "date": "2026-09-28",
       "kind": "normal",
@@ -1222,16 +1226,6 @@
       "shift_note": "10/12(スポーツの日)のため前週金曜に変更"
     },
     {
-      "magazine_id": "young_champion",
-      "edition": "print",
-      "date": "2026-10-11",
-      "kind": "normal",
-      "status": "predicted_watch",
-      "issue_label": null,
-      "shift_reason": "holiday",
-      "shift_note": "10/12(スポーツの日)のため前日に変更"
-    },
-    {
       "magazine_id": "shonen_jump",
       "edition": "digital",
       "date": "2026-10-12",
@@ -1251,6 +1245,15 @@
       "shift_note": "10/12(スポーツの日)のため翌日に変更"
     },
     {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2026-10-13",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
       "magazine_id": "young_magazine",
       "edition": "print",
       "date": "2026-10-13",
@@ -1414,7 +1417,7 @@
       "shift_reason": null
     },
     {
-      "magazine_id": "young_champion",
+      "magazine_id": "young_magazine",
       "edition": "print",
       "date": "2026-10-26",
       "kind": "normal",
@@ -1423,9 +1426,9 @@
       "shift_reason": null
     },
     {
-      "magazine_id": "young_magazine",
+      "magazine_id": "young_champion",
       "edition": "print",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "normal",
       "status": "predicted",
       "issue_label": null,
@@ -1621,7 +1624,7 @@
       "shift_reason": null
     },
     {
-      "magazine_id": "young_champion",
+      "magazine_id": "young_magazine",
       "edition": "print",
       "date": "2026-11-09",
       "kind": "normal",
@@ -1630,9 +1633,9 @@
       "shift_reason": null
     },
     {
-      "magazine_id": "young_magazine",
+      "magazine_id": "young_champion",
       "edition": "print",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "kind": "normal",
       "status": "predicted",
       "issue_label": null,
@@ -1775,16 +1778,6 @@
       "shift_note": "11/23(勤労感謝の日)のため前週金曜に変更"
     },
     {
-      "magazine_id": "young_champion",
-      "edition": "print",
-      "date": "2026-11-22",
-      "kind": "normal",
-      "status": "predicted_watch",
-      "issue_label": null,
-      "shift_reason": "holiday",
-      "shift_note": "11/23(勤労感謝の日)のため前日に変更"
-    },
-    {
       "magazine_id": "shonen_jump",
       "edition": "digital",
       "date": "2026-11-23",
@@ -1802,6 +1795,15 @@
       "issue_label": null,
       "shift_reason": "holiday",
       "shift_note": "11/23(勤労感謝の日)のため翌日に変更"
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2026-11-24",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
     },
     {
       "magazine_id": "young_magazine",
@@ -2005,6 +2007,15 @@
       "shift_reason": null
     },
     {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2026-12-08",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
       "magazine_id": "bessatsu_shonen_magazine",
       "edition": "print",
       "date": "2026-12-09",
@@ -2086,15 +2097,6 @@
       "shift_reason": null
     },
     {
-      "magazine_id": "young_champion",
-      "edition": "print",
-      "date": "2026-12-14",
-      "kind": "normal",
-      "status": "predicted_watch",
-      "issue_label": null,
-      "shift_reason": null
-    },
-    {
       "magazine_id": "young_magazine",
       "edition": "print",
       "date": "2026-12-14",
@@ -2185,6 +2187,15 @@
       "shift_reason": null
     },
     {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2026-12-22",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
       "magazine_id": "shonen_magazine",
       "edition": "digital",
       "date": "2026-12-23",
@@ -2249,15 +2260,6 @@
     },
     {
       "magazine_id": "shonen_jump",
-      "edition": "print",
-      "date": "2026-12-28",
-      "kind": "normal",
-      "status": "predicted_watch",
-      "issue_label": null,
-      "shift_reason": null
-    },
-    {
-      "magazine_id": "young_champion",
       "edition": "print",
       "date": "2026-12-28",
       "kind": "normal",
@@ -2464,7 +2466,7 @@
       "shift_reason": null
     },
     {
-      "magazine_id": "young_champion",
+      "magazine_id": "young_magazine",
       "edition": "print",
       "date": "2027-01-11",
       "kind": "normal",
@@ -2473,9 +2475,9 @@
       "shift_reason": null
     },
     {
-      "magazine_id": "young_magazine",
+      "magazine_id": "young_champion",
       "edition": "print",
-      "date": "2027-01-11",
+      "date": "2027-01-12",
       "kind": "normal",
       "status": "unknown",
       "issue_label": null,
@@ -2635,7 +2637,7 @@
       "shift_reason": null
     },
     {
-      "magazine_id": "young_champion",
+      "magazine_id": "young_magazine",
       "edition": "print",
       "date": "2027-01-25",
       "kind": "normal",
@@ -2644,9 +2646,9 @@
       "shift_reason": null
     },
     {
-      "magazine_id": "young_magazine",
+      "magazine_id": "young_champion",
       "edition": "print",
-      "date": "2027-01-25",
+      "date": "2027-01-26",
       "kind": "normal",
       "status": "predicted",
       "issue_label": null,
@@ -2835,15 +2837,6 @@
       "shift_reason": null
     },
     {
-      "magazine_id": "young_champion",
-      "edition": "print",
-      "date": "2027-02-08",
-      "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
-    },
-    {
       "magazine_id": "young_magazine",
       "edition": "print",
       "date": "2027-02-08",
@@ -2854,6 +2847,15 @@
     },
     {
       "magazine_id": "bessatsu_shonen_magazine",
+      "edition": "print",
+      "date": "2027-02-09",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
       "edition": "print",
       "date": "2027-02-09",
       "kind": "normal",
@@ -3021,9 +3023,10 @@
       "edition": "print",
       "date": "2027-02-22",
       "kind": "normal",
-      "status": "predicted",
+      "status": "predicted_watch",
       "issue_label": null,
-      "shift_reason": null
+      "shift_reason": "holiday",
+      "shift_note": "2/23(天皇誕生日)のため前日に変更"
     },
     {
       "magazine_id": "young_magazine",
@@ -3217,15 +3220,6 @@
       "shift_reason": null
     },
     {
-      "magazine_id": "young_champion",
-      "edition": "print",
-      "date": "2027-03-08",
-      "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
-    },
-    {
       "magazine_id": "young_magazine",
       "edition": "print",
       "date": "2027-03-08",
@@ -3236,6 +3230,15 @@
     },
     {
       "magazine_id": "bessatsu_shonen_magazine",
+      "edition": "print",
+      "date": "2027-03-09",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
       "edition": "print",
       "date": "2027-03-09",
       "kind": "normal",
@@ -3380,16 +3383,6 @@
       "shift_note": "3/22(休日)のため前週金曜に変更"
     },
     {
-      "magazine_id": "young_champion",
-      "edition": "print",
-      "date": "2027-03-20",
-      "kind": "normal",
-      "status": "predicted_watch",
-      "issue_label": null,
-      "shift_reason": "holiday",
-      "shift_note": "3/22(休日)のため前日に変更"
-    },
-    {
       "magazine_id": "shonen_jump",
       "edition": "digital",
       "date": "2027-03-22",
@@ -3407,6 +3400,15 @@
       "issue_label": null,
       "shift_reason": "holiday",
       "shift_note": "3/22(休日)のため翌日に変更"
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2027-03-23",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
     },
     {
       "magazine_id": "young_magazine",
