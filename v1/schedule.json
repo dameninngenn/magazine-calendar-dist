@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-06T04:56:30+09:00",
+  "generated_at": "2026-09-07T03:58:55+09:00",
   "window": {
     "from": "2026-08-01",
     "to": "2027-03-31"
@@ -66,7 +66,7 @@
       "publisher": "講談社",
       "color": "#1F8FA0",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-02"
+      "last_confirmed_on": "2026-09-07"
     },
     {
       "id": "big_comic_spirits",
@@ -76,7 +76,7 @@
       "publisher": "小学館",
       "color": "#B5473F",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-05"
+      "last_confirmed_on": "2026-09-07"
     },
     {
       "id": "young_champion",
@@ -829,9 +829,16 @@
       "edition": "print",
       "date": "2026-09-14",
       "kind": "normal",
-      "status": "predicted",
+      "status": "confirmed",
       "issue_label": null,
-      "shift_reason": null
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://bigcomicbros.net/wp-content/uploads/2026/08/spi2641_jigoyokoku.jpg",
+          "quote": "9月14日凳壳！",
+          "fetched_at": "2026-09-07T03:58:41+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_jump",
@@ -856,9 +863,16 @@
       "edition": "print",
       "date": "2026-09-14",
       "kind": "normal",
-      "status": "predicted",
+      "status": "confirmed",
       "issue_label": null,
-      "shift_reason": null
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://comic-days.com/magazine",
+          "quote": "ト 月刊少年シリウス 月刊少年マガジン ヤングマガジン 毎週月曜更新 次回更新日： 2026/09/14 NEW 2026/09/07 更新 S",
+          "fetched_at": "2026-09-07T03:58:44+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_magazine",
