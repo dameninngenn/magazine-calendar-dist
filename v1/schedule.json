@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-07T11:19:33+09:00",
+  "generated_at": "2026-09-07T13:40:27+09:00",
   "window": {
     "from": "2026-08-01",
     "to": "2027-03-31"
@@ -16,7 +16,7 @@
       "color": "#D94F3D",
       "official_url": "https://www.shonenjump.com/j/weeklyshonenjump/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-02"
+      "last_confirmed_on": "2026-09-07"
     },
     {
       "id": "shonen_magazine",
@@ -25,6 +25,7 @@
       "initials": "MG",
       "publisher": "講談社",
       "color": "#2F6FB5",
+      "official_url": "https://shonenmagazine.com/smaga",
       "source_health": "ok",
       "last_confirmed_on": "2026-09-02"
     },
@@ -35,6 +36,7 @@
       "initials": "SD",
       "publisher": "小学館",
       "color": "#3F9E5A",
+      "official_url": "https://websunday.net/",
       "source_health": "ok",
       "last_confirmed_on": "2026-09-02"
     },
@@ -45,6 +47,7 @@
       "initials": "CH",
       "publisher": "秋田書店",
       "color": "#C9772A",
+      "official_url": "https://www.akitashoten.co.jp/w-champion",
       "source_health": "ok",
       "last_confirmed_on": "2026-09-03"
     },
@@ -55,6 +58,7 @@
       "initials": "YJ",
       "publisher": "集英社",
       "color": "#8E5BB5",
+      "official_url": "https://youngjump.jp/magazine/",
       "source_health": "ok",
       "last_confirmed_on": "2026-09-05"
     },
@@ -65,6 +69,7 @@
       "initials": "YM",
       "publisher": "講談社",
       "color": "#1F8FA0",
+      "official_url": "https://yanmaga.jp/",
       "source_health": "ok",
       "last_confirmed_on": "2026-09-07"
     },
@@ -75,6 +80,7 @@
       "initials": "SP",
       "publisher": "小学館",
       "color": "#B5473F",
+      "official_url": "https://bigcomicbros.net/spirits/",
       "source_health": "ok",
       "last_confirmed_on": "2026-09-07"
     },
@@ -85,6 +91,7 @@
       "initials": "YC",
       "publisher": "秋田書店",
       "color": "#6B8E23",
+      "official_url": "https://www.akitashoten.co.jp/youngchampion",
       "source_health": "ok",
       "last_confirmed_on": "2026-09-05"
     },
@@ -95,6 +102,7 @@
       "initials": "GM",
       "publisher": "講談社",
       "color": "#4B6CB7",
+      "official_url": "https://gmaga.co/",
       "source_health": "ok",
       "last_confirmed_on": "2026-09-05"
     },
@@ -105,6 +113,7 @@
       "initials": "GC",
       "publisher": "秋田書店",
       "color": "#A0522D",
+      "official_url": "https://www.akitashoten.co.jp/m-champion",
       "source_health": "ok",
       "last_confirmed_on": "2026-09-05"
     },
@@ -115,6 +124,7 @@
       "initials": "BM",
       "publisher": "講談社",
       "color": "#5A7FA8",
+      "official_url": "https://shonenmagazine.com/bmaga",
       "source_health": "ok",
       "last_confirmed_on": "2026-09-02"
     },
@@ -125,6 +135,7 @@
       "initials": "SQ",
       "publisher": "集英社",
       "color": "#C4553F",
+      "official_url": "https://jumpsq.shueisha.co.jp/",
       "source_health": "ok",
       "last_confirmed_on": "2026-09-02"
     }
@@ -668,7 +679,7 @@
       "date": "2026-09-07",
       "kind": "normal",
       "status": "confirmed",
-      "issue_label": null,
+      "issue_label": "41号",
       "shift_reason": null,
       "sources": [
         {
@@ -814,7 +825,7 @@
       "date": "2026-09-10",
       "kind": "normal",
       "status": "confirmed",
-      "issue_label": "41",
+      "issue_label": "41号",
       "shift_reason": null,
       "sources": [
         {
@@ -830,7 +841,7 @@
       "date": "2026-09-14",
       "kind": "normal",
       "status": "confirmed",
-      "issue_label": null,
+      "issue_label": "42・43合併号",
       "shift_reason": null,
       "sources": [
         {
@@ -854,9 +865,16 @@
       "edition": "print",
       "date": "2026-09-14",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "42・43合併号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
+          "quote": "ルリドラゴン【電子版連載】 眞藤雅興 次号のジャンプ情報 2026年 42・43合併号 9/14(月)発売 特別定価：330円(税込) ●一部地域",
+          "fetched_at": "2026-09-07T13:40:01+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "young_magazine",
