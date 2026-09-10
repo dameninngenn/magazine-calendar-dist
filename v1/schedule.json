@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-10T05:12:58+09:00",
+  "generated_at": "2026-09-11T05:14:47+09:00",
   "window": {
     "from": "2026-08-01",
     "to": "2027-03-31"
@@ -843,7 +843,7 @@
       "status": "confirmed",
       "issue_label": "42・43合併号",
       "shift_reason": null,
-      "covers_until": "2026-10-11",
+      "covers_until": "2026-10-18",
       "sources": [
         {
           "url": "https://bigcomicbros.net/wp-content/uploads/2026/08/spi2641_jigoyokoku.jpg",
@@ -860,7 +860,7 @@
       "status": "confirmed",
       "issue_label": null,
       "shift_reason": null,
-      "covers_until": "2026-10-11",
+      "covers_until": "2026-10-18",
       "sources": [
         {
           "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
@@ -877,7 +877,7 @@
       "status": "confirmed",
       "issue_label": "42・43合併号",
       "shift_reason": null,
-      "covers_until": "2026-10-11",
+      "covers_until": "2026-10-18",
       "sources": [
         {
           "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
@@ -1009,7 +1009,7 @@
       "status": "confirmed",
       "skip_reason": "combined",
       "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-10-09",
+      "resumes_on": "2026-10-19",
       "resumes_unknown_reason": null,
       "sources": [
         {
@@ -1027,7 +1027,7 @@
       "status": "confirmed",
       "skip_reason": "combined",
       "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-10-12",
+      "resumes_on": "2026-10-19",
       "resumes_unknown_reason": null,
       "sources": [
         {
@@ -1045,7 +1045,7 @@
       "status": "confirmed",
       "skip_reason": "combined",
       "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-10-13",
+      "resumes_on": "2026-10-19",
       "resumes_unknown_reason": null,
       "sources": [
         {
@@ -1091,7 +1091,7 @@
       "status": "confirmed",
       "skip_reason": "combined",
       "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-10-09",
+      "resumes_on": "2026-10-19",
       "resumes_unknown_reason": null,
       "sources": [
         {
@@ -1109,7 +1109,7 @@
       "status": "confirmed",
       "skip_reason": "combined",
       "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-10-12",
+      "resumes_on": "2026-10-19",
       "resumes_unknown_reason": null,
       "sources": [
         {
@@ -1127,7 +1127,7 @@
       "status": "confirmed",
       "skip_reason": "combined",
       "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-10-13",
+      "resumes_on": "2026-10-19",
       "resumes_unknown_reason": null,
       "sources": [
         {
@@ -1209,7 +1209,7 @@
       "status": "confirmed",
       "skip_reason": "combined",
       "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-10-09",
+      "resumes_on": "2026-10-19",
       "resumes_unknown_reason": null,
       "sources": [
         {
@@ -1227,7 +1227,7 @@
       "status": "confirmed",
       "skip_reason": "combined",
       "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-10-12",
+      "resumes_on": "2026-10-19",
       "resumes_unknown_reason": null,
       "sources": [
         {
@@ -1245,7 +1245,7 @@
       "status": "confirmed",
       "skip_reason": "combined",
       "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-10-13",
+      "resumes_on": "2026-10-19",
       "resumes_unknown_reason": null,
       "sources": [
         {
@@ -1361,31 +1361,56 @@
     {
       "magazine_id": "big_comic_spirits",
       "edition": "print",
-      "date": "2026-10-09",
-      "kind": "normal",
-      "status": "predicted_watch",
-      "issue_label": null,
-      "shift_reason": "holiday",
-      "shift_note": "10/12(スポーツの日)のため前週金曜に変更"
+      "date": "2026-10-12",
+      "kind": "skip",
+      "status": "confirmed",
+      "skip_reason": "combined",
+      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
+      "resumes_on": "2026-10-19",
+      "resumes_unknown_reason": null,
+      "sources": [
+        {
+          "url": "https://bigcomicbros.net/wp-content/uploads/2026/08/spi2641_jigoyokoku.jpg",
+          "quote": "9月14日凳壳！",
+          "fetched_at": "2026-09-11T05:14:33+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_jump",
       "edition": "digital",
       "date": "2026-10-12",
-      "kind": "normal",
-      "status": "predicted_watch",
-      "issue_label": null,
-      "shift_reason": null
+      "kind": "skip",
+      "status": "confirmed",
+      "skip_reason": "combined",
+      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
+      "resumes_on": "2026-10-19",
+      "resumes_unknown_reason": null,
+      "sources": [
+        {
+          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
+          "quote": "ルリドラゴン【電子版連載】 眞藤雅興 次号のジャンプ情報 2026年 42・43合併号 9/14(月)発売 特別定価：330円(税込) ●一部地域",
+          "fetched_at": "2026-09-11T05:14:22+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_jump",
       "edition": "print",
-      "date": "2026-10-13",
-      "kind": "normal",
-      "status": "predicted_watch",
-      "issue_label": null,
-      "shift_reason": "holiday",
-      "shift_note": "10/12(スポーツの日)のため翌日に変更"
+      "date": "2026-10-12",
+      "kind": "skip",
+      "status": "confirmed",
+      "skip_reason": "combined",
+      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
+      "resumes_on": "2026-10-19",
+      "resumes_unknown_reason": null,
+      "sources": [
+        {
+          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
+          "quote": "ルリドラゴン【電子版連載】 眞藤雅興 次号のジャンプ情報 2026年 42・43合併号 9/14(月)発売 特別定価：330円(税込) ●一部地域",
+          "fetched_at": "2026-09-11T05:14:22+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "young_champion",
