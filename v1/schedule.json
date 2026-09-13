@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-13T04:52:53+09:00",
+  "generated_at": "2026-09-14T05:00:57+09:00",
   "window": {
     "from": "2026-08-01",
     "to": "2027-03-31"
@@ -16,7 +16,7 @@
       "color": "#D94F3D",
       "official_url": "https://www.shonenjump.com/j/weeklyshonenjump/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-07"
+      "last_confirmed_on": "2026-09-14"
     },
     {
       "id": "shonen_magazine",
@@ -37,8 +37,8 @@
       "publisher": "小学館",
       "color": "#3F9E5A",
       "official_url": "https://websunday.net/",
-      "source_health": "stale",
-      "last_confirmed_on": "2026-09-02"
+      "source_health": "ok",
+      "last_confirmed_on": "2026-09-14"
     },
     {
       "id": "shonen_champion",
@@ -47,7 +47,7 @@
       "initials": "CH",
       "publisher": "秋田書店",
       "color": "#C9772A",
-      "official_url": "https://www.akitashoten.co.jp/w-champion",
+      "official_url": "https://magazines.akitashoten.co.jp/w-champion",
       "source_health": "ok",
       "last_confirmed_on": "2026-09-10"
     },
@@ -60,7 +60,7 @@
       "color": "#8E5BB5",
       "official_url": "https://youngjump.jp/magazine/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-05"
+      "last_confirmed_on": "2026-09-14"
     },
     {
       "id": "young_magazine",
@@ -82,7 +82,7 @@
       "color": "#B5473F",
       "official_url": "https://bigcomicbros.net/spirits/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-07"
+      "last_confirmed_on": "2026-09-14"
     },
     {
       "id": "young_champion",
@@ -91,9 +91,9 @@
       "initials": "YC",
       "publisher": "秋田書店",
       "color": "#6B8E23",
-      "official_url": "https://www.akitashoten.co.jp/youngchampion",
+      "official_url": "https://magazines.akitashoten.co.jp/youngchampion",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-05"
+      "last_confirmed_on": "2026-09-14"
     },
     {
       "id": "gekkan_shonen_magazine",
@@ -113,7 +113,7 @@
       "initials": "GC",
       "publisher": "秋田書店",
       "color": "#A0522D",
-      "official_url": "https://www.akitashoten.co.jp/m-champion",
+      "official_url": "https://magazines.akitashoten.co.jp/m-champion",
       "source_health": "ok",
       "last_confirmed_on": "2026-09-05"
     },
@@ -843,7 +843,7 @@
       "status": "confirmed",
       "issue_label": "42・43合併号",
       "shift_reason": null,
-      "covers_until": "2026-11-01",
+      "covers_until": "2026-09-27",
       "sources": [
         {
           "url": "https://bigcomicbros.net/wp-content/uploads/2026/08/spi2641_jigoyokoku.jpg",
@@ -860,7 +860,7 @@
       "status": "confirmed",
       "issue_label": null,
       "shift_reason": null,
-      "covers_until": "2026-11-01",
+      "covers_until": "2026-09-27",
       "sources": [
         {
           "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
@@ -877,7 +877,7 @@
       "status": "confirmed",
       "issue_label": "42・43合併号",
       "shift_reason": null,
-      "covers_until": "2026-11-01",
+      "covers_until": "2026-09-27",
       "sources": [
         {
           "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
@@ -931,10 +931,18 @@
       "magazine_id": "shonen_sunday",
       "edition": "print",
       "date": "2026-09-16",
-      "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "kind": "combined",
+      "status": "confirmed",
+      "issue_label": "42・43合併号",
+      "shift_reason": null,
+      "covers_until": "2026-09-27",
+      "sources": [
+        {
+          "url": "https://websunday.net/sunday/next/",
+          "quote": "ップへ トップ > 少年サンデー 次号 次号のサンデー 2026年 42-43 合併号 9月16日（水） 発売 ●特別価格：400円（税込） レッドブ",
+          "fetched_at": "2026-09-14T05:00:38+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_champion",
@@ -956,10 +964,18 @@
       "magazine_id": "young_jump",
       "edition": "print",
       "date": "2026-09-17",
-      "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "kind": "combined",
+      "status": "confirmed",
+      "issue_label": "42・43合併特大号",
+      "shift_reason": null,
+      "covers_until": "2026-09-27",
+      "sources": [
+        {
+          "url": "https://youngjump.jp/magazine/",
+          "quote": "ーマーズ』 【シリーズ連載】『リアル』 次号No.42・43合併特大号は2026年9月17日（木）発売です!! ヤングジャンプ公式サイト 集英",
+          "fetched_at": "2026-09-14T05:00:44+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_magazine",
@@ -982,26 +998,6 @@
       "shift_note": "9/23(秋分の日)のため前日に変更"
     },
     {
-      "magazine_id": "shonen_sunday",
-      "edition": "print",
-      "date": "2026-09-20",
-      "kind": "normal",
-      "status": "predicted_watch",
-      "issue_label": null,
-      "shift_reason": "holiday",
-      "shift_note": "9/23(秋分の日)のため前日に変更"
-    },
-    {
-      "magazine_id": "young_champion",
-      "edition": "print",
-      "date": "2026-09-20",
-      "kind": "normal",
-      "status": "predicted_watch",
-      "issue_label": null,
-      "shift_reason": "holiday",
-      "shift_note": "9/22(休日)のため前日に変更"
-    },
-    {
       "magazine_id": "big_comic_spirits",
       "edition": "print",
       "date": "2026-09-21",
@@ -1009,7 +1005,7 @@
       "status": "confirmed",
       "skip_reason": "combined",
       "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-11-02",
+      "resumes_on": "2026-09-28",
       "resumes_unknown_reason": null,
       "sources": [
         {
@@ -1027,7 +1023,7 @@
       "status": "confirmed",
       "skip_reason": "combined",
       "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-11-02",
+      "resumes_on": "2026-09-28",
       "resumes_unknown_reason": null,
       "sources": [
         {
@@ -1045,13 +1041,31 @@
       "status": "confirmed",
       "skip_reason": "combined",
       "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-11-02",
+      "resumes_on": "2026-09-28",
       "resumes_unknown_reason": null,
       "sources": [
         {
           "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
           "quote": "ルリドラゴン【電子版連載】 眞藤雅興 次号のジャンプ情報 2026年 42・43合併号 9/14(月)発売 特別定価：330円(税込) ●一部地域",
           "fetched_at": "2026-09-07T14:21:10+09:00"
+        }
+      ]
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2026-09-23",
+      "kind": "skip",
+      "status": "confirmed",
+      "skip_reason": "combined",
+      "skip_note": "次号告知（2026-09-16 発売）から自動導出",
+      "resumes_on": "2026-09-30",
+      "resumes_unknown_reason": null,
+      "sources": [
+        {
+          "url": "https://websunday.net/sunday/next/",
+          "quote": "ップへ トップ > 少年サンデー 次号 次号のサンデー 2026年 42-43 合併号 9月16日（水） 発売 ●特別価格：400円（税込） レッドブ",
+          "fetched_at": "2026-09-14T05:00:38+09:00"
         }
       ]
     },
@@ -1068,10 +1082,19 @@
       "magazine_id": "young_jump",
       "edition": "print",
       "date": "2026-09-24",
-      "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "kind": "skip",
+      "status": "confirmed",
+      "skip_reason": "combined",
+      "skip_note": "次号告知（2026-09-17 発売）から自動導出",
+      "resumes_on": "2026-10-01",
+      "resumes_unknown_reason": null,
+      "sources": [
+        {
+          "url": "https://youngjump.jp/magazine/",
+          "quote": "ーマーズ』 【シリーズ連載】『リアル』 次号No.42・43合併特大号は2026年9月17日（木）発売です!! ヤングジャンプ公式サイト 集英",
+          "fetched_at": "2026-09-14T05:00:44+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "young_magazine",
@@ -1087,17 +1110,15 @@
       "magazine_id": "big_comic_spirits",
       "edition": "print",
       "date": "2026-09-28",
-      "kind": "skip",
+      "kind": "normal",
       "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-11-02",
-      "resumes_unknown_reason": null,
+      "issue_label": "44号",
+      "shift_reason": null,
       "sources": [
         {
-          "url": "https://bigcomicbros.net/wp-content/uploads/2026/08/spi2641_jigoyokoku.jpg",
-          "quote": "9月14日凳壳！",
-          "fetched_at": "2026-09-08T05:55:21+09:00"
+          "url": "https://bigcomicbros.net/wp-content/uploads/2026/09/spi264243_jigoyokoku.jpg",
+          "quote": "9月28日壳！",
+          "fetched_at": "2026-09-14T05:00:45+09:00"
         }
       ]
     },
@@ -1105,35 +1126,24 @@
       "magazine_id": "shonen_jump",
       "edition": "digital",
       "date": "2026-09-28",
-      "kind": "skip",
-      "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-11-02",
-      "resumes_unknown_reason": null,
-      "sources": [
-        {
-          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
-          "quote": "ルリドラゴン【電子版連載】 眞藤雅興 次号のジャンプ情報 2026年 42・43合併号 9/14(月)発売 特別定価：330円(税込) ●一部地域",
-          "fetched_at": "2026-09-08T05:55:10+09:00"
-        }
-      ]
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
     },
     {
       "magazine_id": "shonen_jump",
       "edition": "print",
       "date": "2026-09-28",
-      "kind": "skip",
+      "kind": "normal",
       "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-11-02",
-      "resumes_unknown_reason": null,
+      "issue_label": "44号",
+      "shift_reason": null,
       "sources": [
         {
           "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
-          "quote": "ルリドラゴン【電子版連載】 眞藤雅興 次号のジャンプ情報 2026年 42・43合併号 9/14(月)発売 特別定価：330円(税込) ●一部地域",
-          "fetched_at": "2026-09-08T05:55:10+09:00"
+          "quote": "※今週の 『カグラバチ』 は休載です。 次号のジャンプ情報 2026年 44号 9/28(月)発売 特別定価：320円(税込) ●一部地域",
+          "fetched_at": "2026-09-14T05:00:33+09:00"
         }
       ]
     },
@@ -1145,6 +1155,23 @@
       "status": "predicted",
       "issue_label": null,
       "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2026-09-29",
+      "kind": "normal",
+      "status": "confirmed",
+      "issue_label": null,
+      "shift_reason": "other",
+      "shift_note": "次号告知より（予測 2026-09-20 → 告知 2026-09-29）",
+      "sources": [
+        {
+          "url": "https://magazines.akitashoten.co.jp/youngchampion/latest",
+          "quote": "r\\\":\\\"サレンダー橋本\\\"}],\\\"nextIssue\\\":{\\\"fieldId\\\":\\\"backNumber\\\",\\\"releaseDate\\\":\\\"2026-09-28T15:00:00.000Z\\\",\\\"previewImages\\\"",
+          "fetched_at": "2026-09-14T05:00:45+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_magazine",
@@ -1205,55 +1232,28 @@
       "magazine_id": "big_comic_spirits",
       "edition": "print",
       "date": "2026-10-05",
-      "kind": "skip",
-      "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-11-02",
-      "resumes_unknown_reason": null,
-      "sources": [
-        {
-          "url": "https://bigcomicbros.net/wp-content/uploads/2026/08/spi2641_jigoyokoku.jpg",
-          "quote": "9月14日凳壳！",
-          "fetched_at": "2026-09-10T05:12:41+09:00"
-        }
-      ]
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
     },
     {
       "magazine_id": "shonen_jump",
       "edition": "digital",
       "date": "2026-10-05",
-      "kind": "skip",
-      "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-11-02",
-      "resumes_unknown_reason": null,
-      "sources": [
-        {
-          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
-          "quote": "ルリドラゴン【電子版連載】 眞藤雅興 次号のジャンプ情報 2026年 42・43合併号 9/14(月)発売 特別定価：330円(税込) ●一部地域",
-          "fetched_at": "2026-09-10T05:12:27+09:00"
-        }
-      ]
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
     },
     {
       "magazine_id": "shonen_jump",
       "edition": "print",
       "date": "2026-10-05",
-      "kind": "skip",
-      "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-11-02",
-      "resumes_unknown_reason": null,
-      "sources": [
-        {
-          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
-          "quote": "ルリドラゴン【電子版連載】 眞藤雅興 次号のジャンプ情報 2026年 42・43合併号 9/14(月)発売 特別定価：330円(税込) ●一部地域",
-          "fetched_at": "2026-09-10T05:12:27+09:00"
-        }
-      ]
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
     },
     {
       "magazine_id": "young_magazine",
@@ -1361,56 +1361,31 @@
     {
       "magazine_id": "big_comic_spirits",
       "edition": "print",
-      "date": "2026-10-12",
-      "kind": "skip",
-      "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-11-02",
-      "resumes_unknown_reason": null,
-      "sources": [
-        {
-          "url": "https://bigcomicbros.net/wp-content/uploads/2026/08/spi2641_jigoyokoku.jpg",
-          "quote": "9月14日凳壳！",
-          "fetched_at": "2026-09-11T05:14:33+09:00"
-        }
-      ]
+      "date": "2026-10-09",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "10/12(スポーツの日)のため前週金曜に変更"
     },
     {
       "magazine_id": "shonen_jump",
       "edition": "digital",
       "date": "2026-10-12",
-      "kind": "skip",
-      "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-11-02",
-      "resumes_unknown_reason": null,
-      "sources": [
-        {
-          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
-          "quote": "ルリドラゴン【電子版連載】 眞藤雅興 次号のジャンプ情報 2026年 42・43合併号 9/14(月)発売 特別定価：330円(税込) ●一部地域",
-          "fetched_at": "2026-09-11T05:14:22+09:00"
-        }
-      ]
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
     },
     {
       "magazine_id": "shonen_jump",
       "edition": "print",
-      "date": "2026-10-12",
-      "kind": "skip",
-      "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-11-02",
-      "resumes_unknown_reason": null,
-      "sources": [
-        {
-          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
-          "quote": "ルリドラゴン【電子版連載】 眞藤雅興 次号のジャンプ情報 2026年 42・43合併号 9/14(月)発売 特別定価：330円(税込) ●一部地域",
-          "fetched_at": "2026-09-11T05:14:22+09:00"
-        }
-      ]
+      "date": "2026-10-13",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "10/12(スポーツの日)のため翌日に変更"
     },
     {
       "magazine_id": "young_champion",
@@ -1480,55 +1455,28 @@
       "magazine_id": "big_comic_spirits",
       "edition": "print",
       "date": "2026-10-19",
-      "kind": "skip",
-      "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-11-02",
-      "resumes_unknown_reason": null,
-      "sources": [
-        {
-          "url": "https://bigcomicbros.net/wp-content/uploads/2026/08/spi2641_jigoyokoku.jpg",
-          "quote": "9月14日凳壳！",
-          "fetched_at": "2026-09-12T05:13:39+09:00"
-        }
-      ]
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
     },
     {
       "magazine_id": "shonen_jump",
       "edition": "digital",
       "date": "2026-10-19",
-      "kind": "skip",
-      "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-11-02",
-      "resumes_unknown_reason": null,
-      "sources": [
-        {
-          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
-          "quote": "ルリドラゴン【電子版連載】 眞藤雅興 次号のジャンプ情報 2026年 42・43合併号 9/14(月)発売 特別定価：330円(税込) ●一部地域",
-          "fetched_at": "2026-09-12T05:13:29+09:00"
-        }
-      ]
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
     },
     {
       "magazine_id": "shonen_jump",
       "edition": "print",
       "date": "2026-10-19",
-      "kind": "skip",
-      "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-11-02",
-      "resumes_unknown_reason": null,
-      "sources": [
-        {
-          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
-          "quote": "ルリドラゴン【電子版連載】 眞藤雅興 次号のジャンプ情報 2026年 42・43合併号 9/14(月)発売 特別定価：330円(税込) ●一部地域",
-          "fetched_at": "2026-09-12T05:13:29+09:00"
-        }
-      ]
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
     },
     {
       "magazine_id": "young_magazine",
@@ -1588,55 +1536,28 @@
       "magazine_id": "big_comic_spirits",
       "edition": "print",
       "date": "2026-10-26",
-      "kind": "skip",
-      "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-11-02",
-      "resumes_unknown_reason": null,
-      "sources": [
-        {
-          "url": "https://bigcomicbros.net/wp-content/uploads/2026/08/spi2641_jigoyokoku.jpg",
-          "quote": "9月14日凳壳！",
-          "fetched_at": "2026-09-13T04:52:41+09:00"
-        }
-      ]
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
     },
     {
       "magazine_id": "shonen_jump",
       "edition": "digital",
       "date": "2026-10-26",
-      "kind": "skip",
-      "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-11-02",
-      "resumes_unknown_reason": null,
-      "sources": [
-        {
-          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
-          "quote": "ルリドラゴン【電子版連載】 眞藤雅興 次号のジャンプ情報 2026年 42・43合併号 9/14(月)発売 特別定価：330円(税込) ●一部地域",
-          "fetched_at": "2026-09-13T04:52:30+09:00"
-        }
-      ]
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
     },
     {
       "magazine_id": "shonen_jump",
       "edition": "print",
       "date": "2026-10-26",
-      "kind": "skip",
-      "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-11-02",
-      "resumes_unknown_reason": null,
-      "sources": [
-        {
-          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
-          "quote": "ルリドラゴン【電子版連載】 眞藤雅興 次号のジャンプ情報 2026年 42・43合併号 9/14(月)発売 特別定価：330円(税込) ●一部地域",
-          "fetched_at": "2026-09-13T04:52:30+09:00"
-        }
-      ]
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
     },
     {
       "magazine_id": "young_magazine",
