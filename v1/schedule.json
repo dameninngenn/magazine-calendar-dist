@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-16T05:39:57+09:00",
+  "generated_at": "2026-09-17T05:39:52+09:00",
   "window": {
     "from": "2026-08-01",
     "to": "2027-03-31"
@@ -49,7 +49,7 @@
       "color": "#C9772A",
       "official_url": "https://magazines.akitashoten.co.jp/w-champion",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-10"
+      "last_confirmed_on": "2026-09-17"
     },
     {
       "id": "young_jump",
@@ -137,7 +137,7 @@
       "color": "#C4553F",
       "official_url": "https://jumpsq.shueisha.co.jp/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-02"
+      "last_confirmed_on": "2026-09-17"
     }
   ],
   "releases": [
@@ -1226,9 +1226,16 @@
       "edition": "print",
       "date": "2026-10-01",
       "kind": "normal",
-      "status": "predicted",
+      "status": "confirmed",
       "issue_label": null,
-      "shift_reason": null
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://magazines.akitashoten.co.jp/w-champion/latest",
+          "quote": "thor\\\":\\\"石黒正数\\\"}],\\\"nextIssue\\\":{\\\"fieldId\\\":\\\"backNumber\\\",\\\"releaseDate\\\":\\\"2026-09-30T15:00:00.000Z\\\",\\\"previewImages\\\"",
+          "fetched_at": "2026-09-17T05:39:33+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "young_jump",
@@ -1251,10 +1258,17 @@
       "edition": "print",
       "date": "2026-10-02",
       "kind": "normal",
-      "status": "predicted_watch",
-      "issue_label": null,
+      "status": "confirmed",
+      "issue_label": "11月特大号",
       "shift_reason": "weekend",
-      "shift_note": "10/4(日)のため直前の平日に変更"
+      "shift_note": "10/4(日)のため直前の平日に変更",
+      "sources": [
+        {
+          "url": "https://jumpsq.shueisha.co.jp/sq/yokoku.html",
+          "quote": "ジャンプSQ.全連載作品無料試し読み 次号予告 ジャンプSQ.11月特大号 10月2日（金）発売!! 毎月４日発売 ◆特別定価 710円",
+          "fetched_at": "2026-09-17T05:39:36+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "big_comic_spirits",
