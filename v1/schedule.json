@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-18T11:57:13+09:00",
+  "generated_at": "2026-09-18T23:00:37+09:00",
   "window": {
     "from": "2026-08-01",
     "to": "2027-03-31"
@@ -101,7 +101,7 @@
       "initials": "CH",
       "publisher": "秋田書店",
       "color": "#C9772A",
-      "official_url": "https://magazines.akitashoten.co.jp/w-champion",
+      "official_url": "https://www.akitashoten.co.jp/w-champion",
       "source_health": "ok",
       "last_confirmed_on": "2026-09-17"
     },
@@ -145,7 +145,7 @@
       "initials": "YC",
       "publisher": "秋田書店",
       "color": "#6B8E23",
-      "official_url": "https://magazines.akitashoten.co.jp/youngchampion",
+      "official_url": "https://www.akitashoten.co.jp/youngchampion",
       "source_health": "ok",
       "last_confirmed_on": "2026-09-14"
     },
@@ -167,7 +167,7 @@
       "initials": "GC",
       "publisher": "秋田書店",
       "color": "#A0522D",
-      "official_url": "https://magazines.akitashoten.co.jp/m-champion",
+      "official_url": "https://www.akitashoten.co.jp/m-champion",
       "source_health": "ok",
       "last_confirmed_on": "2026-09-05"
     },
@@ -683,7 +683,7 @@
       "date": "2026-09-04",
       "kind": "normal",
       "status": "confirmed",
-      "issue_label": null,
+      "issue_label": "10月特大号",
       "shift_reason": "weekend",
       "shift_note": "9/6(日)のため直前の平日に変更",
       "sources": [
@@ -1002,10 +1002,11 @@
       "magazine_id": "shonen_champion",
       "edition": "print",
       "date": "2026-09-17",
-      "kind": "normal",
+      "kind": "combined",
       "status": "confirmed",
-      "issue_label": null,
+      "issue_label": "42+43号",
       "shift_reason": null,
+      "covers_until": "2026-09-27",
       "sources": [
         {
           "url": "https://www.akitashoten.co.jp/w-champion",
@@ -1134,10 +1135,19 @@
       "magazine_id": "shonen_champion",
       "edition": "print",
       "date": "2026-09-24",
-      "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "kind": "skip",
+      "status": "confirmed",
+      "skip_reason": "combined",
+      "skip_note": "次号告知（2026-10-01 発売）から自動導出。直前の 9/17 が No.42+43 と2号ぶんを名乗っているため合併号（導出時は号数が未取得で irregular と書かれていた）",
+      "resumes_on": "2026-10-01",
+      "resumes_unknown_reason": null,
+      "sources": [
+        {
+          "url": "https://www.akitashoten.co.jp/w-champion/next",
+          "quote": "週刊少年チャンピオン 2026年No.42+43 次号予告 | 秋田書店 秋田書店 AKITA SHOTEN since 1948 マンガで最高の出会い グローバルナビゲーション コミックス 雑誌 お知らせ オンラインショップ TOPへ戻る コミック・フロンティアの秋田書店 企業情報 採用情報 まんが賞 持ち込み窓口 雑誌 検索 週刊少年チャンピオン 2026年No.42+43 次号予告 毎週木曜日 発売 最新号 電子版 バックナンバー 次号予告 コミックス 特別価格：本体 382 円+税 420 円（税込） 発売日 ：2026年9月17日 次 号 ：2026年10月1日 Tweet 少年・青年コミック誌 週刊",
+          "fetched_at": "2026-09-18T21:36:19+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_magazine",
