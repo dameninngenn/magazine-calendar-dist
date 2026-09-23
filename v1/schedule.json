@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-23T05:40:24+09:00",
+  "generated_at": "2026-09-24T05:52:17+09:00",
   "window": {
     "from": "2026-08-01",
     "to": "2027-03-31"
@@ -81,7 +81,7 @@
       "color": "#2F6FB5",
       "official_url": "https://shonenmagazine.com/smaga",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-16"
+      "last_confirmed_on": "2026-09-24"
     },
     {
       "id": "shonen_sunday",
@@ -1272,9 +1272,16 @@
       "edition": "print",
       "date": "2026-09-30",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "44号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://shonenmagazine.com/smaga",
+          "quote": "し読み あひるの空 日向武史 試し読み 次号の週刊少年マガジン 週刊少年マガジン 44号 09月30日（水）発売予定！ \"> 運営会社 プライバシーポリ",
+          "fetched_at": "2026-09-24T05:51:56+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_sunday",
