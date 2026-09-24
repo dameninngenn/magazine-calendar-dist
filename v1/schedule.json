@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-24T05:52:17+09:00",
+  "generated_at": "2026-09-25T05:57:06+09:00",
   "window": {
     "from": "2026-08-01",
     "to": "2027-03-31"
@@ -69,7 +69,7 @@
       "publisher": "集英社",
       "color": "#D94F3D",
       "official_url": "https://www.shonenjump.com/j/weeklyshonenjump/",
-      "source_health": "ok",
+      "source_health": "stale",
       "last_confirmed_on": "2026-09-14"
     },
     {
@@ -113,7 +113,7 @@
       "publisher": "集英社",
       "color": "#8E5BB5",
       "official_url": "https://youngjump.jp/magazine/",
-      "source_health": "ok",
+      "source_health": "stale",
       "last_confirmed_on": "2026-09-14"
     },
     {
@@ -135,7 +135,7 @@
       "publisher": "小学館",
       "color": "#B5473F",
       "official_url": "https://bigcomicbros.net/spirits/",
-      "source_health": "ok",
+      "source_health": "stale",
       "last_confirmed_on": "2026-09-14"
     },
     {
