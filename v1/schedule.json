@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-29T07:44:50+09:00",
+  "generated_at": "2026-09-30T06:38:42+09:00",
   "window": {
     "from": "2026-08-01",
     "to": "2027-03-31"
@@ -81,7 +81,7 @@
       "color": "#2F6FB5",
       "official_url": "https://shonenmagazine.com/smaga",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-24"
+      "last_confirmed_on": "2026-09-30"
     },
     {
       "id": "shonen_sunday",
@@ -92,7 +92,7 @@
       "color": "#3F9E5A",
       "official_url": "https://websunday.net/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-16"
+      "last_confirmed_on": "2026-09-30"
     },
     {
       "id": "shonen_champion",
@@ -1451,18 +1451,32 @@
       "edition": "print",
       "date": "2026-10-07",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "45号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://shonenmagazine.com/smaga",
+          "quote": "し読み あひるの空 日向武史 試し読み 次号の週刊少年マガジン 週刊少年マガジン 45号 10月07日（水）発売予定！ \"> 運営会社 プライバシーポリ",
+          "fetched_at": "2026-09-30T06:38:19+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_sunday",
       "edition": "print",
       "date": "2026-10-07",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "45号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://websunday.net/sunday/next/",
+          "quote": "ップへ トップ > 少年サンデー 次号 次号のサンデー 2026年 45 号 10月7日（水） 発売 ●特別価格：400円（税込） new-",
+          "fetched_at": "2026-09-30T06:38:23+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "bessatsu_shonen_magazine",
