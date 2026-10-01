@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-01T06:39:15+09:00",
+  "generated_at": "2026-10-02T07:07:02+09:00",
   "window": {
     "from": "2026-09-01",
     "to": "2027-04-30"
@@ -191,7 +191,7 @@
       "color": "#C4553F",
       "official_url": "https://jumpsq.shueisha.co.jp/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-17"
+      "last_confirmed_on": "2026-10-02"
     }
   ],
   "releases": [
@@ -1416,9 +1416,16 @@
       "edition": "print",
       "date": "2026-11-04",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "12月特大号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://jumpsq.shueisha.co.jp/sq/yokoku.html",
+          "quote": "ジャンプSQ.全連載作品無料試し読み 次号予告 ジャンプSQ.12月特大号 11月4日（水）発売!! 毎月４日発売 ◆特別定価 730円",
+          "fetched_at": "2026-10-02T07:06:47+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_magazine",
