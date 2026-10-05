@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T05:37:51+09:00",
+  "generated_at": "2026-10-06T08:28:09+09:00",
   "window": {
     "from": "2026-09-01",
     "to": "2027-04-30"
@@ -114,7 +114,7 @@
       "color": "#8E5BB5",
       "official_url": "https://youngjump.jp/magazine/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-29"
+      "last_confirmed_on": "2026-10-06"
     },
     {
       "id": "young_magazine",
@@ -158,7 +158,7 @@
       "color": "#4B6CB7",
       "official_url": "https://gmaga.co/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-05"
+      "last_confirmed_on": "2026-10-06"
     },
     {
       "id": "gekkan_shonen_champion",
@@ -169,7 +169,7 @@
       "color": "#A0522D",
       "official_url": "https://www.akitashoten.co.jp/m-champion",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-05"
+      "last_confirmed_on": "2026-10-06"
     },
     {
       "id": "bessatsu_shonen_magazine",
@@ -988,7 +988,7 @@
       "date": "2026-10-06",
       "kind": "normal",
       "status": "confirmed",
-      "issue_label": null,
+      "issue_label": "11月特大号",
       "shift_reason": null,
       "sources": [
         {
@@ -1221,9 +1221,16 @@
       "edition": "print",
       "date": "2026-10-15",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "46号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://youngjump.jp/magazine/",
+          "quote": "ーマーズ』 【シリーズ連載】『リアル』 次号No.46は2026年10月15日（木）発売です!! ヤングジャンプ公式サイト 集英",
+          "fetched_at": "2026-10-06T08:27:59+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "big_comic_spirits",
@@ -1498,18 +1505,32 @@
       "edition": "print",
       "date": "2026-11-06",
       "kind": "normal",
-      "status": "predicted",
+      "status": "confirmed",
       "issue_label": null,
-      "shift_reason": null
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://www.akitashoten.co.jp/m-champion/next",
+          "quote": "月刊少年チャンピオン 2026年11月特大号 次号予告 | 秋田書店 秋田書店 AKITA SHOTEN since 1948 マンガで最高の出会い グローバルナビゲーション コミックス 雑誌 お知らせ オンラインショップ TOPへ戻る コミック・フロンティアの秋田書店 企業情報 採用情報 まんが賞 持ち込み窓口 雑誌 検索 月刊少年チャンピオン 2026年11月特大号 次号予告 毎月6日 発売 最新号 電子版 バックナンバー 次号予告 コミックス 特別定価：本体 682 円+税 750 円（税込） 発売日 ：2026年10月6日 次 号 ：2026年11月6日 Tweet 少年・青年コミック誌 週刊",
+          "fetched_at": "2026-10-06T08:27:56+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "gekkan_shonen_magazine",
       "edition": "print",
       "date": "2026-11-06",
       "kind": "normal",
-      "status": "predicted",
+      "status": "confirmed",
       "issue_label": null,
-      "shift_reason": null
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://comic-days.com/magazine",
+          "quote": "った件 【68日記 前編】 もっと見る 月刊少年マガジン 毎月6日更新 次回更新日： 2026/11/06 NEW 2026/10/06 更新 D",
+          "fetched_at": "2026-10-06T08:28:04+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "bessatsu_shonen_magazine",
