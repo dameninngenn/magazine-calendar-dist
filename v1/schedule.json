@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-07T07:00:25+09:00",
+  "generated_at": "2026-10-08T07:25:40+09:00",
   "window": {
     "from": "2026-09-01",
     "to": "2027-04-30"
@@ -103,7 +103,7 @@
       "color": "#C9772A",
       "official_url": "https://www.akitashoten.co.jp/w-champion",
       "source_health": "ok",
-      "last_confirmed_on": "2026-10-01"
+      "last_confirmed_on": "2026-10-08"
     },
     {
       "id": "young_jump",
@@ -180,7 +180,7 @@
       "color": "#5A7FA8",
       "official_url": "https://shonenmagazine.com/bmaga",
       "source_health": "ok",
-      "last_confirmed_on": "2026-09-10"
+      "last_confirmed_on": "2026-10-08"
     },
     {
       "id": "jump_sq",
@@ -1078,7 +1078,7 @@
       "date": "2026-10-08",
       "kind": "normal",
       "status": "confirmed",
-      "issue_label": null,
+      "issue_label": "45号",
       "shift_reason": null,
       "sources": [
         {
@@ -1226,9 +1226,16 @@
       "edition": "print",
       "date": "2026-10-15",
       "kind": "normal",
-      "status": "predicted",
+      "status": "confirmed",
       "issue_label": null,
-      "shift_reason": null
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://www.akitashoten.co.jp/w-champion/next",
+          "quote": "週刊少年チャンピオン 2026年No.45 次号予告 | 秋田書店 秋田書店 AKITA SHOTEN since 1948 マンガで最高の出会い グローバルナビゲーション コミックス 雑誌 お知らせ オンラインショップ TOPへ戻る コミック・フロンティアの秋田書店 企業情報 採用情報 まんが賞 持ち込み窓口 雑誌 検索 週刊少年チャンピオン 2026年No.45 次号予告 毎週木曜日 発売 最新号 電子版 バックナンバー 次号予告 コミックス 価格：本体 364 円+税 400 円（税込） 発売日 ：2026年10月8日 次 号 ：2026年10月15日 Tweet 少年・青年コミック誌 週刊",
+          "fetched_at": "2026-10-08T07:25:17+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "young_jump",
@@ -1551,9 +1558,16 @@
       "edition": "print",
       "date": "2026-11-09",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "12月号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://shonenmagazine.com/bmaga",
+          "quote": "歪みの虜 おーにじょうろく 試し読み 次号の別冊少年マガジン 別冊少年マガジン12月号 11月09日（月）発売予定！ \"> 運営会社 プライバシーポリ",
+          "fetched_at": "2026-10-08T07:25:14+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "big_comic_spirits",
