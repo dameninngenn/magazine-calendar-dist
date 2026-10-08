@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-08T07:25:40+09:00",
+  "generated_at": "2026-10-09T07:38:31+09:00",
   "window": {
     "from": "2026-09-01",
     "to": "2027-04-30"
@@ -136,7 +136,7 @@
       "color": "#B5473F",
       "official_url": "https://bigcomicbros.net/spirits/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-10-05"
+      "last_confirmed_on": "2026-10-09"
     },
     {
       "id": "young_champion",
@@ -1258,9 +1258,16 @@
       "edition": "print",
       "date": "2026-10-19",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "47号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://bigcomicbros.net/wp-content/uploads/2026/10/spi2646_jigoyokoku.jpg",
+          "quote": "10月19日壳",
+          "fetched_at": "2026-10-09T07:38:19+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_jump",
