@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-18T04:49:52+09:00",
+  "generated_at": "2026-10-19T04:50:43+09:00",
   "window": {
     "from": "2026-09-01",
     "to": "2027-04-30"
@@ -70,7 +70,7 @@
       "color": "#D94F3D",
       "official_url": "https://www.shonenjump.com/j/weeklyshonenjump/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-10-13"
+      "last_confirmed_on": "2026-10-19"
     },
     {
       "id": "shonen_magazine",
@@ -114,7 +114,7 @@
       "color": "#8E5BB5",
       "official_url": "https://youngjump.jp/magazine/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-10-13"
+      "last_confirmed_on": "2026-10-19"
     },
     {
       "id": "young_magazine",
@@ -125,7 +125,7 @@
       "color": "#1F8FA0",
       "official_url": "https://yanmaga.jp/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-10-13"
+      "last_confirmed_on": "2026-10-19"
     },
     {
       "id": "big_comic_spirits",
@@ -136,7 +136,7 @@
       "color": "#B5473F",
       "official_url": "https://bigcomicbros.net/spirits/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-10-09"
+      "last_confirmed_on": "2026-10-19"
     },
     {
       "id": "young_champion",
@@ -1388,9 +1388,16 @@
       "edition": "print",
       "date": "2026-10-26",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "48号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://bigcomicbros.net/wp-content/uploads/2026/10/spi2647_jigoyokoku.jpg",
+          "quote": "10月26日壳",
+          "fetched_at": "2026-10-19T04:50:31+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_jump",
@@ -1406,18 +1413,32 @@
       "edition": "print",
       "date": "2026-10-26",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "48号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
+          "quote": "ルリドラゴン【電子版連載】 眞藤雅興 次号のジャンプ情報 2026年 48号 10/26(月)発売 特別定価：320円(税込) ●一部地域",
+          "fetched_at": "2026-10-19T04:50:20+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "young_magazine",
       "edition": "print",
       "date": "2026-10-26",
       "kind": "normal",
-      "status": "predicted",
+      "status": "confirmed",
       "issue_label": null,
-      "shift_reason": null
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://comic-days.com/magazine",
+          "quote": "ト 月刊少年シリウス 月刊少年マガジン ヤングマガジン 毎週月曜更新 次回更新日： 2026/10/26 NEW 2026/10/19 更新 S",
+          "fetched_at": "2026-10-19T04:50:34+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "young_champion",
@@ -1476,9 +1497,16 @@
       "edition": "print",
       "date": "2026-10-29",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "48号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://youngjump.jp/magazine/",
+          "quote": "ーマーズ』 【シリーズ連載】『リアル』 次号No.48は2026年10月29日（木）発売です!! ヤングジャンプ公式サイト 集英",
+          "fetched_at": "2026-10-19T04:50:29+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "big_comic_spirits",
