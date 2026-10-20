@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T06:51:20+09:00",
+  "generated_at": "2026-10-21T05:59:55+09:00",
   "window": {
     "from": "2026-09-01",
     "to": "2027-04-30"
@@ -81,7 +81,7 @@
       "color": "#2F6FB5",
       "official_url": "https://shonenmagazine.com/smaga",
       "source_health": "ok",
-      "last_confirmed_on": "2026-10-14"
+      "last_confirmed_on": "2026-10-21"
     },
     {
       "id": "shonen_sunday",
@@ -92,7 +92,7 @@
       "color": "#3F9E5A",
       "official_url": "https://websunday.net/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-10-14"
+      "last_confirmed_on": "2026-10-21"
     },
     {
       "id": "shonen_champion",
@@ -1470,18 +1470,32 @@
       "edition": "print",
       "date": "2026-10-28",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "48号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://shonenmagazine.com/smaga",
+          "quote": "し読み あひるの空 日向武史 試し読み 次号の週刊少年マガジン 週刊少年マガジン 48号 10月28日（水）発売予定！ \"> 運営会社 プライバシーポリ",
+          "fetched_at": "2026-10-21T05:59:34+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_sunday",
       "edition": "print",
       "date": "2026-10-28",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "48号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://websunday.net/sunday/next/",
+          "quote": "ップへ トップ > 少年サンデー 次号 次号のサンデー 2026年 48 号 10月28日（水） 発売 ●特別価格：400円（税込） 神引きの",
+          "fetched_at": "2026-10-21T05:59:37+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_champion",
