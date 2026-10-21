@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-21T05:59:55+09:00",
+  "generated_at": "2026-10-22T06:03:17+09:00",
   "window": {
     "from": "2026-09-01",
     "to": "2027-04-30"
@@ -103,7 +103,7 @@
       "color": "#C9772A",
       "official_url": "https://www.akitashoten.co.jp/w-champion",
       "source_health": "ok",
-      "last_confirmed_on": "2026-10-15"
+      "last_confirmed_on": "2026-10-22"
     },
     {
       "id": "young_jump",
@@ -1357,7 +1357,7 @@
       "date": "2026-10-22",
       "kind": "normal",
       "status": "confirmed",
-      "issue_label": null,
+      "issue_label": "47号",
       "shift_reason": null,
       "sources": [
         {
@@ -1502,9 +1502,16 @@
       "edition": "print",
       "date": "2026-10-29",
       "kind": "normal",
-      "status": "predicted",
+      "status": "confirmed",
       "issue_label": null,
-      "shift_reason": null
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://www.akitashoten.co.jp/w-champion/next",
+          "quote": "週刊少年チャンピオン 2026年No.47 次号予告 | 秋田書店 秋田書店 AKITA SHOTEN since 1948 マンガで最高の出会い グローバルナビゲーション コミックス 雑誌 お知らせ オンラインショップ TOPへ戻る コミック・フロンティアの秋田書店 企業情報 採用情報 まんが賞 持ち込み窓口 雑誌 検索 週刊少年チャンピオン 2026年No.47 次号予告 毎週木曜日 発売 最新号 電子版 バックナンバー 次号予告 コミックス 価格：本体 364 円+税 400 円（税込） 発売日 ：2026年10月22日 次 号 ：2026年10月29日 Tweet 少年・青年コミック誌 週刊",
+          "fetched_at": "2026-10-22T06:03:05+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "young_jump",
