@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-26T05:08:11+09:00",
+  "generated_at": "2026-10-27T07:04:09+09:00",
   "window": {
     "from": "2026-09-01",
     "to": "2027-04-30"
@@ -114,7 +114,7 @@
       "color": "#8E5BB5",
       "official_url": "https://youngjump.jp/magazine/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-10-19"
+      "last_confirmed_on": "2026-10-27"
     },
     {
       "id": "young_magazine",
@@ -136,7 +136,7 @@
       "color": "#B5473F",
       "official_url": "https://bigcomicbros.net/spirits/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-10-19"
+      "last_confirmed_on": "2026-10-27"
     },
     {
       "id": "young_champion",
@@ -147,7 +147,7 @@
       "color": "#6B8E23",
       "official_url": "https://www.akitashoten.co.jp/youngchampion",
       "source_health": "ok",
-      "last_confirmed_on": "2026-10-13"
+      "last_confirmed_on": "2026-10-27"
     },
     {
       "id": "gekkan_shonen_magazine",
@@ -1534,9 +1534,16 @@
       "edition": "print",
       "date": "2026-11-02",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "49号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://bigcomicbros.net/wp-content/uploads/2026/10/spi2648_jigoyokoku-1.jpg",
+          "quote": "11月2日笼壳！",
+          "fetched_at": "2026-10-27T07:03:57+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_jump",
@@ -1636,9 +1643,16 @@
       "edition": "print",
       "date": "2026-11-05",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "49号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://youngjump.jp/magazine/",
+          "quote": "ッド』 【月2連載】『シャドーハウス』 次号No.49は2026年11月5日（木）発売です!! ヤングジャンプ公式サイト 集英",
+          "fetched_at": "2026-10-27T07:03:55+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "gekkan_shonen_champion",
@@ -1729,9 +1743,16 @@
       "edition": "print",
       "date": "2026-11-10",
       "kind": "normal",
-      "status": "predicted",
+      "status": "confirmed",
       "issue_label": null,
-      "shift_reason": null
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://www.akitashoten.co.jp/youngchampion/next",
+          "quote": "ヤングチャンピオン 2026年No.22 次号予告 | 秋田書店 秋田書店 AKITA SHOTEN since 1948 マンガで最高の出会い グローバルナビゲーション コミックス 雑誌 お知らせ オンラインショップ TOPへ戻る コミック・フロンティアの秋田書店 企業情報 採用情報 まんが賞 持ち込み窓口 雑誌 検索 ヤングチャンピオン 2026年No.22 次号予告 毎月第2・第4火曜日 発売 最新号 電子版 バックナンバー 次号予告 コミックス 特別定価：本体 445 円+税 490 円（税込） 発売日 ：2026年10月27日 次 号 ：2026年11月10日 Tweet 少年・青年コミック誌 週刊",
+          "fetched_at": "2026-10-27T07:03:56+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_magazine",
