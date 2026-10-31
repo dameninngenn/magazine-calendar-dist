@@ -1,24 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T06:47:07+09:00",
+  "generated_at": "2026-11-01T05:46:49+09:00",
   "window": {
-    "from": "2026-09-01",
-    "to": "2027-04-30"
+    "from": "2026-10-01",
+    "to": "2027-05-31"
   },
   "holiday_coverage_until": "2027-11-23",
   "holidays": [
-    {
-      "date": "2026-09-21",
-      "name": "敬老の日"
-    },
-    {
-      "date": "2026-09-22",
-      "name": "休日"
-    },
-    {
-      "date": "2026-09-23",
-      "name": "秋分の日"
-    },
     {
       "date": "2026-10-12",
       "name": "スポーツの日"
@@ -58,6 +46,18 @@
     {
       "date": "2027-04-29",
       "name": "昭和の日"
+    },
+    {
+      "date": "2027-05-03",
+      "name": "憲法記念日"
+    },
+    {
+      "date": "2027-05-04",
+      "name": "みどりの日"
+    },
+    {
+      "date": "2027-05-05",
+      "name": "こどもの日"
     }
   ],
   "magazines": [
@@ -195,687 +195,6 @@
     }
   ],
   "releases": [
-    {
-      "magazine_id": "shonen_magazine",
-      "edition": "digital",
-      "date": "2026-09-02",
-      "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
-    },
-    {
-      "magazine_id": "shonen_magazine",
-      "edition": "print",
-      "date": "2026-09-02",
-      "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
-    },
-    {
-      "magazine_id": "shonen_sunday",
-      "edition": "print",
-      "date": "2026-09-02",
-      "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
-    },
-    {
-      "magazine_id": "shonen_champion",
-      "edition": "print",
-      "date": "2026-09-03",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": null,
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://www.akitashoten.co.jp/w-champion",
-          "quote": "税込) 発売日 ：2026年8月27日 次 号 ：2026年9月3日 Tweet 『吸血鬼すぐ死ぬ』『刃牙ら",
-          "fetched_at": "2026-09-02T22:54:11+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "young_jump",
-      "edition": "print",
-      "date": "2026-09-03",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": null,
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://youngjump.jp/",
-          "quote": "アシスタント募集 オンライン持ち込み 2026年9月3日（木）発売 特別定価510円（税込） デジタル版購入 BLU",
-          "fetched_at": "2026-09-02T22:54:13+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "gekkan_shonen_champion",
-      "edition": "print",
-      "date": "2026-09-04",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": "10月特大号",
-      "shift_reason": "weekend",
-      "shift_note": "9/6(日)のため直前の平日に変更",
-      "sources": [
-        {
-          "url": "https://www.akitashoten.co.jp/m-champion",
-          "quote": "%税込) 発売日 ：2026年8月6日 次 号 ：2026年9月4日 Tweet 少年・青年コミック誌 週刊",
-          "fetched_at": "2026-09-02T22:54:11+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "gekkan_shonen_magazine",
-      "edition": "print",
-      "date": "2026-09-04",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": null,
-      "shift_reason": "weekend",
-      "shift_note": "9/6(日)のため直前の平日に変更",
-      "sources": [
-        {
-          "url": "https://comic-days.com/magazine",
-          "quote": "った件 【68日記 前編】 もっと見る 月刊少年マガジン 毎月6日更新 次回更新日： 2026/09/04 NEW 2026/08/06 更新 D",
-          "fetched_at": "2026-09-02T23:22:45+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "jump_sq",
-      "edition": "print",
-      "date": "2026-09-04",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": "10月特大号",
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://jumpsq.shueisha.co.jp/",
-          "quote": "れてる！」を当てよう！ ジャンプSQ. ジャンプSQ.10月特大号 9月4日発売!! ◆特別定価 700円 【表紙】 『",
-          "fetched_at": "2026-09-02T22:54:13+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "big_comic_spirits",
-      "edition": "print",
-      "date": "2026-09-07",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": "41号",
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://bigcomicbros.net/wp-content/uploads/2026/08/spi2640_jigoyokoku.jpg",
-          "quote": "9月7日壳！",
-          "fetched_at": "2026-09-05T19:26:37+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "shonen_jump",
-      "edition": "digital",
-      "date": "2026-09-07",
-      "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
-    },
-    {
-      "magazine_id": "shonen_jump",
-      "edition": "print",
-      "date": "2026-09-07",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": "41号",
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
-          "quote": "『ONE PIECE』 は休載です。 次号のジャンプ情報 2026年 41号 9/7(月)発売 特別定価：320円(税込) ●一部地域",
-          "fetched_at": "2026-09-02T22:54:08+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "young_magazine",
-      "edition": "print",
-      "date": "2026-09-07",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": null,
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://comic-days.com/magazine",
-          "quote": "ト 月刊少年シリウス 月刊少年マガジン ヤングマガジン 毎週月曜更新 次回更新日： 2026/09/07 NEW 2026/08/31 更新 S",
-          "fetched_at": "2026-09-02T23:22:45+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "young_champion",
-      "edition": "print",
-      "date": "2026-09-08",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": null,
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://www.akitashoten.co.jp/youngchampion/next/1",
-          "quote": "9月8日火尧壳",
-          "fetched_at": "2026-09-05T19:26:35+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "bessatsu_shonen_magazine",
-      "edition": "print",
-      "date": "2026-09-09",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": "10月号",
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://shonenmagazine.com/bmaga",
-          "quote": "歪みの虜 おーにじょうろく 試し読み 次号の別冊少年マガジン 別冊少年マガジン10月号 09月09日（水）発売予定！ \"> 運営会社 プライバシーポリ",
-          "fetched_at": "2026-09-02T22:54:09+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "shonen_magazine",
-      "edition": "digital",
-      "date": "2026-09-09",
-      "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
-    },
-    {
-      "magazine_id": "shonen_magazine",
-      "edition": "print",
-      "date": "2026-09-09",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": "41号",
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://shonenmagazine.com/smaga",
-          "quote": "し読み あひるの空 日向武史 試し読み 次号の週刊少年マガジン 週刊少年マガジン 41号 09月09日（水）発売予定！ \"> 運営会社 プライバシーポリ",
-          "fetched_at": "2026-09-02T22:54:09+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "shonen_sunday",
-      "edition": "print",
-      "date": "2026-09-09",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": "41号",
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://websunday.net/sunday/next/",
-          "quote": "ップへ トップ > 少年サンデー 次号 次号のサンデー 2026年 41 号 9月9日（水） 発売 ●価格：380円（税込） トニカクカワ",
-          "fetched_at": "2026-09-02T22:54:11+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "shonen_champion",
-      "edition": "print",
-      "date": "2026-09-10",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": null,
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://www.akitashoten.co.jp/w-champion",
-          "quote": "%税込) 発売日 ：2026年9月3日 次 号 ：2026年9月10日 Tweet 『吸血鬼すぐ死ぬ』『刃牙ら",
-          "fetched_at": "2026-09-03T11:40:14+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "young_jump",
-      "edition": "print",
-      "date": "2026-09-10",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": "41号",
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://youngjump.jp/magazine/",
-          "quote": "ーマーズ』 【シリーズ連載】『リアル』 次号No.41は2026年9月10日（木）発売です!! ヤングジャンプ公式サイト 集英",
-          "fetched_at": "2026-09-05T19:02:25+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "big_comic_spirits",
-      "edition": "print",
-      "date": "2026-09-14",
-      "kind": "combined",
-      "status": "confirmed",
-      "issue_label": "42・43合併号",
-      "shift_reason": null,
-      "covers_until": "2026-09-27",
-      "sources": [
-        {
-          "url": "https://bigcomicbros.net/wp-content/uploads/2026/08/spi2641_jigoyokoku.jpg",
-          "quote": "9月14日凳壳！",
-          "fetched_at": "2026-09-07T03:58:41+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "shonen_jump",
-      "edition": "digital",
-      "date": "2026-09-14",
-      "kind": "combined",
-      "status": "confirmed",
-      "issue_label": null,
-      "shift_reason": null,
-      "covers_until": "2026-09-27",
-      "sources": [
-        {
-          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
-          "quote": "ルリドラゴン【電子版連載】 眞藤雅興 次号のジャンプ情報 2026年 42・43合併号 9/14(月)発売 特別定価：330円(税込) ●一部地域",
-          "fetched_at": "2026-09-07T14:21:10+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "shonen_jump",
-      "edition": "print",
-      "date": "2026-09-14",
-      "kind": "combined",
-      "status": "confirmed",
-      "issue_label": "42・43合併号",
-      "shift_reason": null,
-      "covers_until": "2026-09-27",
-      "sources": [
-        {
-          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
-          "quote": "ルリドラゴン【電子版連載】 眞藤雅興 次号のジャンプ情報 2026年 42・43合併号 9/14(月)発売 特別定価：330円(税込) ●一部地域",
-          "fetched_at": "2026-09-07T13:40:01+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "young_magazine",
-      "edition": "print",
-      "date": "2026-09-14",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": null,
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://comic-days.com/magazine",
-          "quote": "ト 月刊少年シリウス 月刊少年マガジン ヤングマガジン 毎週月曜更新 次回更新日： 2026/09/14 NEW 2026/09/07 更新 S",
-          "fetched_at": "2026-09-07T03:58:44+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "shonen_magazine",
-      "edition": "digital",
-      "date": "2026-09-16",
-      "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
-    },
-    {
-      "magazine_id": "shonen_magazine",
-      "edition": "print",
-      "date": "2026-09-16",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": "42号",
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://shonenmagazine.com/smaga",
-          "quote": "し読み あひるの空 日向武史 試し読み 次号の週刊少年マガジン 週刊少年マガジン 42号 09月16日（水）発売予定！ \"> 運営会社 プライバシーポリ",
-          "fetched_at": "2026-09-10T05:12:29+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "shonen_sunday",
-      "edition": "print",
-      "date": "2026-09-16",
-      "kind": "combined",
-      "status": "confirmed",
-      "issue_label": "42・43合併号",
-      "shift_reason": null,
-      "covers_until": "2026-09-27",
-      "sources": [
-        {
-          "url": "https://websunday.net/sunday/next/",
-          "quote": "ップへ トップ > 少年サンデー 次号 次号のサンデー 2026年 42-43 合併号 9月16日（水） 発売 ●特別価格：400円（税込） レッドブ",
-          "fetched_at": "2026-09-14T05:00:38+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "shonen_champion",
-      "edition": "print",
-      "date": "2026-09-17",
-      "kind": "combined",
-      "status": "confirmed",
-      "issue_label": "42+43号",
-      "shift_reason": null,
-      "covers_until": "2026-09-27",
-      "sources": [
-        {
-          "url": "https://www.akitashoten.co.jp/w-champion",
-          "quote": "税込) 発売日 ：2026年9月10日 次 号 ：2026年9月17日 Tweet 『吸血鬼すぐ死ぬ』『刃牙ら",
-          "fetched_at": "2026-09-10T05:12:34+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "young_jump",
-      "edition": "print",
-      "date": "2026-09-17",
-      "kind": "combined",
-      "status": "confirmed",
-      "issue_label": "42・43合併特大号",
-      "shift_reason": null,
-      "covers_until": "2026-09-27",
-      "sources": [
-        {
-          "url": "https://youngjump.jp/magazine/",
-          "quote": "ーマーズ』 【シリーズ連載】『リアル』 次号No.42・43合併特大号は2026年9月17日（木）発売です!! ヤングジャンプ公式サイト 集英",
-          "fetched_at": "2026-09-14T05:00:44+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "young_magazine",
-      "edition": "print",
-      "date": "2026-09-18",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": null,
-      "shift_reason": "other",
-      "shift_note": "次号告知より（予測 2026-09-24 → 告知 2026-09-18）",
-      "sources": [
-        {
-          "url": "https://comic-days.com/magazine",
-          "quote": "ト 月刊少年シリウス 月刊少年マガジン ヤングマガジン 毎週月曜更新 次回更新日： 2026/09/18 NEW 2026/09/14 更新 S",
-          "fetched_at": "2026-09-14T18:57:59+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "shonen_magazine",
-      "edition": "digital",
-      "date": "2026-09-19",
-      "kind": "normal",
-      "status": "predicted_watch",
-      "issue_label": null,
-      "shift_reason": "holiday",
-      "shift_note": "9/23(秋分の日)のため9/19(土)に変更"
-    },
-    {
-      "magazine_id": "big_comic_spirits",
-      "edition": "print",
-      "date": "2026-09-21",
-      "kind": "skip",
-      "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-09-28",
-      "resumes_unknown_reason": null,
-      "sources": [
-        {
-          "url": "https://bigcomicbros.net/wp-content/uploads/2026/08/spi2641_jigoyokoku.jpg",
-          "quote": "9月14日凳壳！",
-          "fetched_at": "2026-09-07T14:21:23+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "shonen_jump",
-      "edition": "digital",
-      "date": "2026-09-21",
-      "kind": "skip",
-      "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-09-28",
-      "resumes_unknown_reason": null,
-      "sources": [
-        {
-          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
-          "quote": "ルリドラゴン【電子版連載】 眞藤雅興 次号のジャンプ情報 2026年 42・43合併号 9/14(月)発売 特別定価：330円(税込) ●一部地域",
-          "fetched_at": "2026-09-07T14:21:10+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "shonen_jump",
-      "edition": "print",
-      "date": "2026-09-21",
-      "kind": "skip",
-      "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-14 発売）から自動導出",
-      "resumes_on": "2026-09-28",
-      "resumes_unknown_reason": null,
-      "sources": [
-        {
-          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
-          "quote": "ルリドラゴン【電子版連載】 眞藤雅興 次号のジャンプ情報 2026年 42・43合併号 9/14(月)発売 特別定価：330円(税込) ●一部地域",
-          "fetched_at": "2026-09-07T14:21:10+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "shonen_sunday",
-      "edition": "print",
-      "date": "2026-09-23",
-      "kind": "skip",
-      "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-16 発売）から自動導出",
-      "resumes_on": "2026-09-30",
-      "resumes_unknown_reason": null,
-      "sources": [
-        {
-          "url": "https://websunday.net/sunday/next/",
-          "quote": "ップへ トップ > 少年サンデー 次号 次号のサンデー 2026年 42-43 合併号 9月16日（水） 発売 ●特別価格：400円（税込） レッドブ",
-          "fetched_at": "2026-09-14T05:00:38+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "shonen_champion",
-      "edition": "print",
-      "date": "2026-09-24",
-      "kind": "skip",
-      "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-10-01 発売）から自動導出。直前の 9/17 が No.42+43 と2号ぶんを名乗っているため合併号（導出時は号数が未取得で irregular と書かれていた）",
-      "resumes_on": "2026-10-01",
-      "resumes_unknown_reason": null,
-      "sources": [
-        {
-          "url": "https://www.akitashoten.co.jp/w-champion/next",
-          "quote": "週刊少年チャンピオン 2026年No.42+43 次号予告 | 秋田書店 秋田書店 AKITA SHOTEN since 1948 マンガで最高の出会い グローバルナビゲーション コミックス 雑誌 お知らせ オンラインショップ TOPへ戻る コミック・フロンティアの秋田書店 企業情報 採用情報 まんが賞 持ち込み窓口 雑誌 検索 週刊少年チャンピオン 2026年No.42+43 次号予告 毎週木曜日 発売 最新号 電子版 バックナンバー 次号予告 コミックス 特別価格：本体 382 円+税 420 円（税込） 発売日 ：2026年9月17日 次 号 ：2026年10月1日 Tweet 少年・青年コミック誌 週刊",
-          "fetched_at": "2026-09-18T21:36:19+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "shonen_magazine",
-      "edition": "print",
-      "date": "2026-09-24",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": "43号",
-      "shift_reason": "other",
-      "shift_note": "次号告知より（予測 2026-09-19 → 告知 2026-09-24）",
-      "sources": [
-        {
-          "url": "https://shonenmagazine.com/smaga",
-          "quote": "し読み あひるの空 日向武史 試し読み 次号の週刊少年マガジン 週刊少年マガジン 43号 09月24日（木）発売予定！ \"> 運営会社 プライバシーポリ",
-          "fetched_at": "2026-09-16T05:39:38+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "young_jump",
-      "edition": "print",
-      "date": "2026-09-24",
-      "kind": "skip",
-      "status": "confirmed",
-      "skip_reason": "combined",
-      "skip_note": "次号告知（2026-09-17 発売）から自動導出",
-      "resumes_on": "2026-10-01",
-      "resumes_unknown_reason": null,
-      "sources": [
-        {
-          "url": "https://youngjump.jp/magazine/",
-          "quote": "ーマーズ』 【シリーズ連載】『リアル』 次号No.42・43合併特大号は2026年9月17日（木）発売です!! ヤングジャンプ公式サイト 集英",
-          "fetched_at": "2026-09-14T05:00:44+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "big_comic_spirits",
-      "edition": "print",
-      "date": "2026-09-28",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": "44号",
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://bigcomicbros.net/wp-content/uploads/2026/09/spi264243_jigoyokoku.jpg",
-          "quote": "9月28日壳！",
-          "fetched_at": "2026-09-14T05:00:45+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "shonen_jump",
-      "edition": "digital",
-      "date": "2026-09-28",
-      "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
-    },
-    {
-      "magazine_id": "shonen_jump",
-      "edition": "print",
-      "date": "2026-09-28",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": "44号",
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
-          "quote": "※今週の 『カグラバチ』 は休載です。 次号のジャンプ情報 2026年 44号 9/28(月)発売 特別定価：320円(税込) ●一部地域",
-          "fetched_at": "2026-09-14T05:00:33+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "young_magazine",
-      "edition": "print",
-      "date": "2026-09-28",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": null,
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://comic-days.com/magazine",
-          "quote": "ト 月刊少年シリウス 月刊少年マガジン ヤングマガジン 毎週月曜更新 次回更新日： 2026/09/28 NEW 2026/09/18 更新 S",
-          "fetched_at": "2026-09-18T05:45:59+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "young_champion",
-      "edition": "print",
-      "date": "2026-09-29",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": null,
-      "shift_reason": "other",
-      "shift_note": "次号告知より（予測 2026-09-20 → 告知 2026-09-29）",
-      "sources": [
-        {
-          "url": "https://magazines.akitashoten.co.jp/youngchampion/latest",
-          "quote": "r\\\":\\\"サレンダー橋本\\\"}],\\\"nextIssue\\\":{\\\"fieldId\\\":\\\"backNumber\\\",\\\"releaseDate\\\":\\\"2026-09-28T15:00:00.000Z\\\",\\\"previewImages\\\"",
-          "fetched_at": "2026-09-14T05:00:45+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "shonen_magazine",
-      "edition": "digital",
-      "date": "2026-09-30",
-      "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
-    },
-    {
-      "magazine_id": "shonen_magazine",
-      "edition": "print",
-      "date": "2026-09-30",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": "44号",
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://shonenmagazine.com/smaga",
-          "quote": "し読み あひるの空 日向武史 試し読み 次号の週刊少年マガジン 週刊少年マガジン 44号 09月30日（水）発売予定！ \"> 運営会社 プライバシーポリ",
-          "fetched_at": "2026-09-24T05:51:56+09:00"
-        }
-      ]
-    },
-    {
-      "magazine_id": "shonen_sunday",
-      "edition": "print",
-      "date": "2026-09-30",
-      "kind": "normal",
-      "status": "confirmed",
-      "issue_label": "44号",
-      "shift_reason": null,
-      "sources": [
-        {
-          "url": "https://websunday.net/sunday/next/",
-          "quote": "ップへ トップ > 少年サンデー 次号 次号のサンデー 2026年 44 号 9月30日（水） 発売 ●特別価格：400円（税込） new-",
-          "fetched_at": "2026-09-16T05:39:41+09:00"
-        }
-      ]
-    },
     {
       "magazine_id": "shonen_champion",
       "edition": "print",
@@ -4060,6 +3379,426 @@
       "issue_label": null,
       "shift_reason": "holiday",
       "shift_note": "4/29(昭和の日)のため前日に変更"
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2027-04-30",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "5/3(憲法記念日)のため前週金曜に変更"
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2027-05-01",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "5/5(こどもの日)のため5/1(土)に変更"
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2027-05-01",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "5/5(こどもの日)のため5/1(土)に変更"
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2027-05-01",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "5/5(こどもの日)のため5/1(土)に変更"
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2027-05-03",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "jump_sq",
+      "edition": "print",
+      "date": "2027-05-04",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "gekkan_shonen_champion",
+      "edition": "print",
+      "date": "2027-05-06",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "gekkan_shonen_magazine",
+      "edition": "print",
+      "date": "2027-05-06",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2027-05-06",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2027-05-06",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "5/3(憲法記念日)のため5/6(木)に変更"
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2027-05-06",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2027-05-06",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": "holiday",
+      "shift_note": "5/3(憲法記念日)のため5/6(木)に変更"
+    },
+    {
+      "magazine_id": "bessatsu_shonen_magazine",
+      "edition": "print",
+      "date": "2027-05-09",
+      "kind": "normal",
+      "status": "unknown",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2027-05-10",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2027-05-10",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2027-05-10",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2027-05-10",
+      "kind": "normal",
+      "status": "predicted_watch",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2027-05-11",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2027-05-12",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2027-05-12",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2027-05-12",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2027-05-13",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2027-05-13",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2027-05-17",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2027-05-17",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2027-05-17",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2027-05-17",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2027-05-19",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2027-05-19",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2027-05-19",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2027-05-20",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2027-05-20",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2027-05-24",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2027-05-24",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2027-05-24",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2027-05-24",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2027-05-25",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "digital",
+      "date": "2027-05-26",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_magazine",
+      "edition": "print",
+      "date": "2027-05-26",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_sunday",
+      "edition": "print",
+      "date": "2027-05-26",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_champion",
+      "edition": "print",
+      "date": "2027-05-27",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_jump",
+      "edition": "print",
+      "date": "2027-05-27",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "big_comic_spirits",
+      "edition": "print",
+      "date": "2027-05-31",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "digital",
+      "date": "2027-05-31",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "shonen_jump",
+      "edition": "print",
+      "date": "2027-05-31",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
+    },
+    {
+      "magazine_id": "young_magazine",
+      "edition": "print",
+      "date": "2027-05-31",
+      "kind": "normal",
+      "status": "predicted",
+      "issue_label": null,
+      "shift_reason": null
     }
   ],
   "season_notes": [
@@ -4124,7 +3863,7 @@
       "edition": "all",
       "window_kind": "gw",
       "from": "2027-04-25",
-      "to": "2027-04-30",
+      "to": "2027-05-10",
       "note": "例年このGW期間に合併号のため1週お休みがあります（どの週かは未確定）"
     },
     {
@@ -4132,7 +3871,7 @@
       "edition": "all",
       "window_kind": "gw",
       "from": "2027-04-25",
-      "to": "2027-04-30",
+      "to": "2027-05-10",
       "note": "例年このGW期間に合併号のため1週お休みがあります（どの週かは未確定）"
     },
     {
@@ -4140,7 +3879,7 @@
       "edition": "all",
       "window_kind": "gw",
       "from": "2027-04-25",
-      "to": "2027-04-30",
+      "to": "2027-05-10",
       "note": "例年このGW期間に合併号のため1週お休みがあります（どの週かは未確定）"
     },
     {
@@ -4148,7 +3887,7 @@
       "edition": "all",
       "window_kind": "gw",
       "from": "2027-04-25",
-      "to": "2027-04-30",
+      "to": "2027-05-10",
       "note": "例年このGW期間に合併号のため1週お休みがあります（どの週かは未確定）"
     },
     {
@@ -4156,7 +3895,7 @@
       "edition": "all",
       "window_kind": "gw",
       "from": "2027-04-25",
-      "to": "2027-04-30",
+      "to": "2027-05-10",
       "note": "例年このGW期間に合併号のため1週お休みがあります（どの週かは未確定）"
     },
     {
@@ -4164,7 +3903,7 @@
       "edition": "all",
       "window_kind": "gw",
       "from": "2027-04-25",
-      "to": "2027-04-30",
+      "to": "2027-05-10",
       "note": "例年このGW期間に合併号のため1週お休みがあります（どの週かは未確定）"
     },
     {
@@ -4172,7 +3911,7 @@
       "edition": "all",
       "window_kind": "gw",
       "from": "2027-04-25",
-      "to": "2027-04-30",
+      "to": "2027-05-10",
       "note": "例年このGW期間に合併号のため1週お休みがあります（どの週かは未確定）"
     }
   ]
