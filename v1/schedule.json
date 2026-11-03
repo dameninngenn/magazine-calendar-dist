@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T06:28:53+09:00",
+  "generated_at": "2026-11-03T09:10:51+09:00",
   "window": {
     "from": "2026-10-01",
     "to": "2027-05-31"
@@ -114,7 +114,7 @@
       "color": "#8E5BB5",
       "official_url": "https://youngjump.jp/magazine/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-10-27"
+      "last_confirmed_on": "2026-11-03"
     },
     {
       "id": "young_magazine",
@@ -1156,9 +1156,16 @@
       "edition": "print",
       "date": "2026-11-12",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "50号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://youngjump.jp/magazine/",
+          "quote": "ーマーズ』 【シリーズ連載】『リアル』 次号No.50は2026年11月12日（木）発売です!! ヤングジャンプ公式サイト 集英",
+          "fetched_at": "2026-11-03T09:10:44+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "big_comic_spirits",
