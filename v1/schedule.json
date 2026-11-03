@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T09:10:51+09:00",
+  "generated_at": "2026-11-04T07:40:56+09:00",
   "window": {
     "from": "2026-10-01",
     "to": "2027-05-31"
@@ -81,7 +81,7 @@
       "color": "#2F6FB5",
       "official_url": "https://shonenmagazine.com/smaga",
       "source_health": "ok",
-      "last_confirmed_on": "2026-10-28"
+      "last_confirmed_on": "2026-11-04"
     },
     {
       "id": "shonen_sunday",
@@ -92,7 +92,7 @@
       "color": "#3F9E5A",
       "official_url": "https://websunday.net/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-10-28"
+      "last_confirmed_on": "2026-11-04"
     },
     {
       "id": "shonen_champion",
@@ -191,7 +191,7 @@
       "color": "#C4553F",
       "official_url": "https://jumpsq.shueisha.co.jp/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-10-02"
+      "last_confirmed_on": "2026-11-04"
     }
   ],
   "releases": [
@@ -1129,18 +1129,32 @@
       "edition": "print",
       "date": "2026-11-11",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "50号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://shonenmagazine.com/smaga",
+          "quote": "し読み あひるの空 日向武史 試し読み 次号の週刊少年マガジン 週刊少年マガジン 50号 11月11日（水）発売予定！ \"> 運営会社 プライバシーポリ",
+          "fetched_at": "2026-11-04T07:40:37+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_sunday",
       "edition": "print",
       "date": "2026-11-11",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "50号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://websunday.net/sunday/next/",
+          "quote": "ップへ トップ > 少年サンデー 次号 次号のサンデー 2026年 50 号 11月11日（水） 発売 ●価格：380円（税込） 写らナイんで",
+          "fetched_at": "2026-11-04T07:40:40+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_champion",
@@ -1447,9 +1461,16 @@
       "edition": "print",
       "date": "2026-12-04",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "1月特大号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://jumpsq.shueisha.co.jp/sq/yokoku.html",
+          "quote": "ジャンプSQ.全連載作品無料試し読み 次号予告 ジャンプSQ.1月特大号 12月4日（金）発売!! 毎月４日発売 ◆特別定価 730円",
+          "fetched_at": "2026-11-04T07:40:44+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "big_comic_spirits",
