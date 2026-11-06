@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T08:00:48+09:00",
+  "generated_at": "2026-11-07T07:30:47+09:00",
   "window": {
     "from": "2026-10-01",
     "to": "2027-05-31"
@@ -169,7 +169,7 @@
       "color": "#A0522D",
       "official_url": "https://www.akitashoten.co.jp/m-champion",
       "source_health": "ok",
-      "last_confirmed_on": "2026-10-06"
+      "last_confirmed_on": "2026-11-07"
     },
     {
       "id": "bessatsu_shonen_magazine",
@@ -1000,7 +1000,7 @@
       "date": "2026-11-06",
       "kind": "normal",
       "status": "confirmed",
-      "issue_label": null,
+      "issue_label": "12月特大号",
       "shift_reason": null,
       "sources": [
         {
@@ -1448,10 +1448,17 @@
       "edition": "print",
       "date": "2026-12-04",
       "kind": "normal",
-      "status": "predicted_watch",
+      "status": "confirmed",
       "issue_label": null,
       "shift_reason": "weekend",
-      "shift_note": "12/6(日)のため直前の平日に変更"
+      "shift_note": "12/6(日)のため直前の平日に変更",
+      "sources": [
+        {
+          "url": "https://www.akitashoten.co.jp/m-champion/next",
+          "quote": "月刊少年チャンピオン 2026年12月特大号 次号予告 | 秋田書店 秋田書店 AKITA SHOTEN since 1948 マンガで最高の出会い グローバルナビゲーション コミックス 雑誌 お知らせ オンラインショップ TOPへ戻る コミック・フロンティアの秋田書店 企業情報 採用情報 まんが賞 持ち込み窓口 雑誌 検索 月刊少年チャンピオン 2026年12月特大号 次号予告 毎月6日 発売 最新号 電子版 バックナンバー 次号予告 コミックス 特別定価：本体 727 円+税 800 円（税込） 発売日 ：2026年11月6日 次 号 ：2026年12月4日 Tweet 少年・青年コミック誌 週刊",
+          "fetched_at": "2026-11-07T07:30:36+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "gekkan_shonen_magazine",
