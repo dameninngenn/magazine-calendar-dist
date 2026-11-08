@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T06:13:32+09:00",
+  "generated_at": "2026-11-09T06:28:19+09:00",
   "window": {
     "from": "2026-10-01",
     "to": "2027-05-31"
@@ -70,7 +70,7 @@
       "color": "#D94F3D",
       "official_url": "https://www.shonenjump.com/j/weeklyshonenjump/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-11-02"
+      "last_confirmed_on": "2026-11-09"
     },
     {
       "id": "shonen_magazine",
@@ -125,7 +125,7 @@
       "color": "#1F8FA0",
       "official_url": "https://yanmaga.jp/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-11-02"
+      "last_confirmed_on": "2026-11-09"
     },
     {
       "id": "big_comic_spirits",
@@ -136,7 +136,7 @@
       "color": "#B5473F",
       "official_url": "https://bigcomicbros.net/spirits/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-11-02"
+      "last_confirmed_on": "2026-11-09"
     },
     {
       "id": "young_champion",
@@ -180,7 +180,7 @@
       "color": "#5A7FA8",
       "official_url": "https://shonenmagazine.com/bmaga",
       "source_health": "ok",
-      "last_confirmed_on": "2026-10-08"
+      "last_confirmed_on": "2026-11-09"
     },
     {
       "id": "jump_sq",
@@ -1193,9 +1193,16 @@
       "edition": "print",
       "date": "2026-11-16",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "51号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://bigcomicbros.net/wp-content/uploads/2026/10/spi2650_jigoyokoku.jpg",
+          "quote": "11月16日壳",
+          "fetched_at": "2026-11-09T06:28:09+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_jump",
@@ -1211,18 +1218,32 @@
       "edition": "print",
       "date": "2026-11-16",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "51号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://www.shonenjump.com/j/weeklyshonenjump/",
+          "quote": "チ 外薗 健 カノンマスター 町田麗弥 次号のジャンプ情報 2026年 51号 11/16(月)発売 特別定価：320円(税込) ●一部地域",
+          "fetched_at": "2026-11-09T06:27:55+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "young_magazine",
       "edition": "print",
       "date": "2026-11-16",
       "kind": "normal",
-      "status": "predicted",
+      "status": "confirmed",
       "issue_label": null,
-      "shift_reason": null
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://comic-days.com/magazine",
+          "quote": "ト 月刊少年シリウス 月刊少年マガジン ヤングマガジン 毎週月曜更新 次回更新日： 2026/11/16 NEW 2026/11/09 更新 S",
+          "fetched_at": "2026-11-09T06:28:12+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_magazine",
@@ -1543,9 +1564,16 @@
       "edition": "print",
       "date": "2026-12-09",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "１月号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://shonenmagazine.com/bmaga",
+          "quote": "歪みの虜 おーにじょうろく 試し読み 次号の別冊少年マガジン 別冊少年マガジン１月号 12月09日（水）発売予定！ \"> 運営会社 プライバシーポリ",
+          "fetched_at": "2026-11-09T06:27:58+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_magazine",
