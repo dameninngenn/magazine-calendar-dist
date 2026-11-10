@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T09:58:40+09:00",
+  "generated_at": "2026-11-11T07:39:05+09:00",
   "window": {
     "from": "2026-10-01",
     "to": "2027-05-31"
@@ -81,7 +81,7 @@
       "color": "#2F6FB5",
       "official_url": "https://shonenmagazine.com/smaga",
       "source_health": "ok",
-      "last_confirmed_on": "2026-11-04"
+      "last_confirmed_on": "2026-11-11"
     },
     {
       "id": "shonen_sunday",
@@ -92,7 +92,7 @@
       "color": "#3F9E5A",
       "official_url": "https://websunday.net/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-11-04"
+      "last_confirmed_on": "2026-11-11"
     },
     {
       "id": "shonen_champion",
@@ -1259,18 +1259,32 @@
       "edition": "print",
       "date": "2026-11-18",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "51号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://shonenmagazine.com/smaga",
+          "quote": "し読み あひるの空 日向武史 試し読み 次号の週刊少年マガジン 週刊少年マガジン 51号 11月18日（水）発売予定！ \"> 運営会社 プライバシーポリ",
+          "fetched_at": "2026-11-11T07:38:45+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_sunday",
       "edition": "print",
       "date": "2026-11-18",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "51号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://websunday.net/sunday/next/",
+          "quote": "ップへ トップ > 少年サンデー 次号 次号のサンデー 2026年 51 号 11月18日（水） 発売 ●価格：380円（税込） ふたりバス",
+          "fetched_at": "2026-11-11T07:38:49+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_champion",
