@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T06:28:19+09:00",
+  "generated_at": "2026-11-10T09:58:40+09:00",
   "window": {
     "from": "2026-10-01",
     "to": "2027-05-31"
@@ -114,7 +114,7 @@
       "color": "#8E5BB5",
       "official_url": "https://youngjump.jp/magazine/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-11-03"
+      "last_confirmed_on": "2026-11-10"
     },
     {
       "id": "young_magazine",
@@ -147,7 +147,7 @@
       "color": "#6B8E23",
       "official_url": "https://www.akitashoten.co.jp/youngchampion",
       "source_health": "ok",
-      "last_confirmed_on": "2026-10-27"
+      "last_confirmed_on": "2026-11-10"
     },
     {
       "id": "gekkan_shonen_magazine",
@@ -1286,9 +1286,16 @@
       "edition": "print",
       "date": "2026-11-19",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "51号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://youngjump.jp/magazine/",
+          "quote": "ーマーズ』 【シリーズ連載】『リアル』 次号No.51は2026年11月19日（木）発売です!! ヤングジャンプ公式サイト 集英",
+          "fetched_at": "2026-11-10T09:58:29+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "big_comic_spirits",
@@ -1318,15 +1325,6 @@
       "issue_label": null,
       "shift_reason": "holiday",
       "shift_note": "11/23(勤労感謝の日)のため翌日に変更"
-    },
-    {
-      "magazine_id": "young_champion",
-      "edition": "print",
-      "date": "2026-11-24",
-      "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
     },
     {
       "magazine_id": "young_magazine",
@@ -1382,6 +1380,23 @@
       "status": "predicted",
       "issue_label": null,
       "shift_reason": null
+    },
+    {
+      "magazine_id": "young_champion",
+      "edition": "print",
+      "date": "2026-11-27",
+      "kind": "normal",
+      "status": "confirmed",
+      "issue_label": null,
+      "shift_reason": "other",
+      "shift_note": "次号告知より（予測 2026-11-24 → 告知 2026-11-27）",
+      "sources": [
+        {
+          "url": "https://www.akitashoten.co.jp/youngchampion/next",
+          "quote": "ヤングチャンピオン 2026年No.23 次号予告 | 秋田書店 秋田書店 AKITA SHOTEN since 1948 マンガで最高の出会い グローバルナビゲーション コミックス 雑誌 お知らせ オンラインショップ TOPへ戻る コミック・フロンティアの秋田書店 企業情報 採用情報 まんが賞 持ち込み窓口 雑誌 検索 ヤングチャンピオン 2026年No.23 次号予告 毎月第2・第4火曜日 発売 最新号 電子版 バックナンバー 次号予告 コミックス 特別価格：本体 509 円+税 560 円（税込） 発売日 ：2026年11月10日 次 号 ：2026年11月27日 Tweet 少年・青年コミック誌 週刊",
+          "fetched_at": "2026-11-10T09:58:30+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "big_comic_spirits",
