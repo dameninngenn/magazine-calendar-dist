@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T07:16:19+09:00",
+  "generated_at": "2026-11-17T10:16:42+09:00",
   "window": {
     "from": "2026-10-01",
     "to": "2027-05-31"
@@ -114,7 +114,7 @@
       "color": "#8E5BB5",
       "official_url": "https://youngjump.jp/magazine/",
       "source_health": "ok",
-      "last_confirmed_on": "2026-11-10"
+      "last_confirmed_on": "2026-11-17"
     },
     {
       "id": "young_magazine",
@@ -1419,9 +1419,16 @@
       "edition": "print",
       "date": "2026-11-26",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "52号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://youngjump.jp/magazine/",
+          "quote": "ーハウス』 【シリーズ連載】『リアル』 次号No.52は2026年11月26日（木）発売です!! ヤングジャンプ公式サイト 集英",
+          "fetched_at": "2026-11-17T10:16:31+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "young_champion",
