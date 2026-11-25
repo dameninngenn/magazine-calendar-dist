@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T12:36:20+09:00",
+  "generated_at": "2026-11-25T10:44:03+09:00",
   "window": {
     "from": "2026-10-01",
     "to": "2027-05-31"
@@ -81,7 +81,7 @@
       "color": "#2F6FB5",
       "official_url": "https://shonenmagazine.com/smaga",
       "source_health": "ok",
-      "last_confirmed_on": "2026-11-18"
+      "last_confirmed_on": "2026-11-25"
     },
     {
       "id": "shonen_sunday",
@@ -1532,9 +1532,16 @@
       "edition": "print",
       "date": "2026-12-02",
       "kind": "normal",
-      "status": "predicted",
-      "issue_label": null,
-      "shift_reason": null
+      "status": "confirmed",
+      "issue_label": "１号",
+      "shift_reason": null,
+      "sources": [
+        {
+          "url": "https://shonenmagazine.com/smaga",
+          "quote": "し読み あひるの空 日向武史 試し読み 次号の週刊少年マガジン 週刊少年マガジン １号 12月02日（水）発売予定！ \"> 運営会社 プライバシーポリ",
+          "fetched_at": "2026-11-25T10:43:41+09:00"
+        }
+      ]
     },
     {
       "magazine_id": "shonen_sunday",
