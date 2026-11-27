@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T10:18:14+09:00",
+  "generated_at": "2026-11-27T10:15:58+09:00",
   "window": {
     "from": "2026-10-01",
     "to": "2027-05-31"
@@ -102,8 +102,8 @@
       "publisher": "秋田書店",
       "color": "#C9772A",
       "official_url": "https://www.akitashoten.co.jp/w-champion",
-      "source_health": "ok",
-      "last_confirmed_on": "2026-11-12"
+      "source_health": "stale",
+      "last_confirmed_on": "2026-11-16"
     },
     {
       "id": "young_jump",
